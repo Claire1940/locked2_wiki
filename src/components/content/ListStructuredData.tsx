@@ -7,13 +7,15 @@ interface ListStructuredDataProps {
 }
 
 export function ListStructuredData({ contentType, locale, items }: ListStructuredDataProps) {
-	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.locked2.wiki'
 	const listUrl =
 		locale === 'en' ? `${siteUrl}/${contentType}` : `${siteUrl}/${locale}/${contentType}`
 
 	const structuredData = {
 		'@context': 'https://schema.org',
 		'@type': 'ItemList',
+		name: `LOCKED 2 Wiki ${contentType}`,
+		url: listUrl,
 		itemListElement: items.map((item, index) => ({
 			'@type': 'ListItem',
 			position: index + 1,

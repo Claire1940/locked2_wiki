@@ -1,46 +1,85 @@
 {
   "categories": [
     {
-      "category": "Guides",
+      "category": "codes",
       "keywords": [
-        "lucid blocks guide"
+        "locked 2 codes"
       ]
     },
     {
-      "category": "Crafting",
+      "category": "guide",
       "keywords": [
-        "lucid blocks crafting recipes",
-        "lucid blocks apotheosis"
+        "locked 2 guide",
+        "locked 2 beginner guide",
+        "locked 2 tips",
+        "locked 2 dribbling guide",
+        "locked 2 settings",
+        "locked 2 controls",
+        "locked 2 locations"
       ]
     },
     {
-      "category": "Items",
+      "category": "weapons",
       "keywords": [
-        "lucid blocks faith wand",
-        "lucid blocks bee glider",
-        "lucid blocks chest",
-        "lucid blocks osmium"
+        "locked 2 weapons",
+        "locked 2 best weapons",
+        "locked 2 weapons tier list",
+        "locked 2 weapon showcase",
+        "locked 2 reo weapon",
+        "locked 2 serpent weapon",
+        "locked 2 magnus shot"
       ]
     },
     {
-      "category": "Biomes",
+      "category": "builds",
       "keywords": [
-        "lucid blocks tiamana leyline"
+        "locked 2 builds",
+        "locked 2 best build",
+        "locked 2 midfielder build",
+        "locked 2 winger build",
+        "locked 2 fullback build",
+        "locked 2 kaiser build",
+        "locked 2 isagi build",
+        "locked 2 nagi build"
       ]
     },
     {
-      "category": "Building",
+      "category": "links",
       "keywords": [
-        "lucid blocks qualia"
+        "locked 2 trello",
+        "locked 2 discord",
+        "locked 2 com",
+        "locked 2 reddit"
       ]
     },
     {
-      "category": "Support",
+      "category": "release",
       "keywords": [
-        "lucid blocks steam deck",
-        "lucid blocks full screen",
-        "lucid blocks multiplayer",
-        "lucid blocks android"
+        "locked 2 release date",
+        "locked 2 release",
+        "locked 2 beta",
+        "locked 2 launch time"
+      ]
+    },
+    {
+      "category": "update",
+      "keywords": [
+        "locked 2 update",
+        "locked 2 patch notes",
+        "locked 2 everything new",
+        "locked 2 all changes",
+        "locked 2 vs locked 1"
+      ]
+    },
+    {
+      "category": "media",
+      "keywords": [
+        "locked 2 gameplay",
+        "locked 2 trailer",
+        "locked 2 youtube",
+        "locked 2 logo",
+        "locked 2 montage",
+        "locked 2 teaser"
       ]
     }
   ]

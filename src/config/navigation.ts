@@ -1,5 +1,14 @@
-import { BookOpen, Sparkles, Package, Eye, Home, MessageCircle } from 'lucide-react'
-import type { LucideIcon } from 'lucide-react'
+import {
+	BookOpen,
+	Calendar,
+	Hammer,
+	Image,
+	Link2,
+	RefreshCw,
+	Swords,
+	Ticket,
+	type LucideIcon,
+} from 'lucide-react'
 
 export interface NavigationItem {
 	key: string // 用于翻译键，如 'codes' -> t('nav.codes')
@@ -9,12 +18,54 @@ export interface NavigationItem {
 }
 
 export const NAVIGATION_CONFIG: NavigationItem[] = [
-	{ key: 'guides', path: '/guides', icon: BookOpen, isContentType: true },
-	{ key: 'crafting', path: '/crafting', icon: Sparkles, isContentType: true },
-	{ key: 'items', path: '/items', icon: Package, isContentType: true },
-	{ key: 'biomes', path: '/biomes', icon: Eye, isContentType: true },
-	{ key: 'building', path: '/building', icon: Home, isContentType: true },
-	{ key: 'support', path: '/support', icon: MessageCircle, isContentType: true },
+	{
+		key: 'codes',
+		path: '/codes',
+		icon: Ticket,
+		isContentType: true,
+	},
+	{
+		key: 'guide',
+		path: '/guide',
+		icon: BookOpen,
+		isContentType: true,
+	},
+	{
+		key: 'weapons',
+		path: '/weapons',
+		icon: Swords,
+		isContentType: true,
+	},
+	{
+		key: 'builds',
+		path: '/builds',
+		icon: Hammer,
+		isContentType: true,
+	},
+	{
+		key: 'links',
+		path: '/links',
+		icon: Link2,
+		isContentType: true,
+	},
+	{
+		key: 'release',
+		path: '/release',
+		icon: Calendar,
+		isContentType: true,
+	},
+	{
+		key: 'update',
+		path: '/update',
+		icon: RefreshCw,
+		isContentType: true,
+	},
+	{
+		key: 'media',
+		path: '/media',
+		icon: Image,
+		isContentType: true,
+	},
 ]
 
 // 从配置派生内容类型列表（用于路由和内容加载）

@@ -1,27 +1,29 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Wiki de LOCKED 2 - Códigos, Builds, Armas y Guías",
+      "description": "La Wiki de LOCKED 2 rastrea códigos activos, controles, tier lists, builds, guías de regate y registros de actualización para jugadores de Roblox LOCKED:2.",
+      "keywords": "LOCKED 2, LOCKED:2, Roblox, códigos, builds, armas, rasgos, flow, regate",
+      "ogTitle": "Wiki de LOCKED 2 - Códigos, Builds, Armas y Guías",
+      "ogDescription": "La Wiki de LOCKED 2 rastrea códigos activos, controles, tier lists, builds, guías de regate y registros de actualización para jugadores de Roblox LOCKED:2.",
+      "twitterTitle": "Wiki de LOCKED 2 - Códigos, Builds, Armas y Guías",
+      "twitterDescription": "Usa la Wiki de LOCKED 2 para códigos diarios, controles, builds y actualizaciones de parches para Roblox LOCKED:2."
     }
   },
   "nav": {
-    "guides": "Guías",
-    "crafting": "Fabricación",
-    "items": "Objetos",
-    "biomes": "Biomas",
-    "building": "Construcción",
-    "support": "Soporte"
+    "codes": "Códigos",
+    "guide": "Guía",
+    "weapons": "Armas",
+    "builds": "Builds",
+    "links": "Enlaces",
+    "release": "Lanzamiento",
+    "update": "Actualización",
+    "media": "Multimedia"
   },
   "common": {
     "home": "Inicio",
     "more": "Más",
-    "playNow": "Juega en Steam",
+    "playNow": "Jugar en Roblox",
     "switchLanguage": "Cambiar idioma",
     "switchTheme": "Cambiar tema",
     "lightMode": "Modo claro",
@@ -30,902 +32,1373 @@
     "notFoundDescription": "La página que buscas no existe.",
     "backToHome": "Volver al inicio",
     "relatedArticles": "Artículos relacionados",
-    "readMore": "Leer más"
+    "readMore": "Leer más",
+    "noArticlesYet": "Aún no hay artículos",
+    "moreWikis": "Más Wikis",
+    "advertisement": "Publicidad",
+    "quickTips": "Consejos rápidos",
+    "bestWith": "Mejor con",
+    "step": "Paso"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Fútbol en Roblox inspirado en Blue Lock",
+    "title": "Wiki de LOCKED 2",
+    "description": "Códigos, armas, builds, guías de regate y ayuda para principiantes de LOCKED 2, la experiencia competitiva de fútbol en Roblox inspirada en Blue Lock.",
+    "getFreeCodesCTA": "Únete al Discord de LOCKED 2",
+    "playOnSteamCTA": "Jugar LOCKED:2 en Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
+        "value": "22.8K",
         "label": "Jugadores en línea"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "98%",
+        "label": "Calificación de aprobación"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "164K",
+        "label": "Miembros de Discord"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "262K",
+        "label": "Vistas del tráiler"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Jugabilidad competitiva de LOCKED 2",
+    "description": "Domina códigos, controles, combinaciones de armas y rasgos, y el juego de roles táctico en Roblox LOCKED:2."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "title": "Módulo de LOCKED 2",
+    "titleHighlight": "Navegación",
+    "subtitle": "Salta a cada módulo de la página de inicio de LOCKED 2 con un clic",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
+        "title": "Códigos de LOCKED 2",
+        "description": "Códigos activos, recompensas, ruta de canje y lista de expirados"
       },
       {
         "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
+        "title": "Trello y Discord de LOCKED 2",
+        "description": "Trello oficial, Discord y centros principales"
       },
       {
         "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
+        "title": "Guía para principiantes de LOCKED 2",
+        "description": "Configuración de la primera sesión y plan de mejora temprana"
       },
       {
         "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
+        "title": "Controles de LOCKED 2",
+        "description": "Referencias de teclas para campo y portero"
       },
       {
         "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
+        "title": "Tier List de armas de LOCKED 2",
+        "description": "Niveles de armas de abril de 2026 con ajuste de rol, presión de enfriamiento y carga de ejecución"
       },
       {
         "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
+        "title": "Tier List de rasgos de LOCKED 2",
+        "description": "Prioridades de conservar o relanzar para el valor actual de los rasgos en LOCKED 2"
       },
       {
         "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
+        "title": "Mejores builds de LOCKED 2",
+        "description": "Builds de LOCKED 2 copiables para roles de principiante, delantero, extremo y ancla defensiva"
       },
       {
         "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
+        "title": "Guía de regate de LOCKED 2",
+        "description": "Ruta de regate de siete pasos en LOCKED 2 desde shift lock hasta la acción final"
       },
       {
         "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
+        "title": "Guía de armas de LOCKED 2",
+        "description": "Efectos de armas actuales, niveles de rareza y ajuste de rol para partidos reales de LOCKED 2"
       },
       {
         "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
+        "title": "Guía de rasgos de LOCKED 2",
+        "description": "Grupos de rareza de rasgos, tasas de aparición y valor práctico de rol en LOCKED 2"
       },
       {
         "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
+        "title": "Guía de Flow de LOCKED 2",
+        "description": "Tiradas de estadísticas de Flow, lógica de activación y variantes visuales usadas en LOCKED 2"
       },
       {
         "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
+        "title": "Guía de posiciones de LOCKED 2",
+        "description": "Tareas de posición, entradas de teclas y direcciones de armas específicas por rol para LOCKED 2"
       },
       {
         "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
+        "title": "Guía de altura de LOCKED 2",
+        "description": "Comparación de bajo vs alto en LOCKED 2 para velocidad, resistencia, potencia y ajuste de rol"
       },
       {
         "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
+        "title": "Guía de portero de LOCKED 2",
+        "description": "Controles de portero de LOCKED 2, opciones de parada y prioridades de armas defensivas"
       },
       {
         "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
+        "title": "Modo torneo de LOCKED 2",
+        "description": "Ruta de cola de torneo de LOCKED 2, preparación de eventos y lista de ejecución de partidos"
       },
       {
         "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "title": "Registro de actualizaciones de LOCKED 2",
+        "description": "Cronología de parches de LOCKED 2 desde la reconstrucción del lanzamiento hasta los canales de actualización en vivo y códigos"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
+      "title": "Códigos de LOCKED 2",
       "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+      "intro": "Los códigos de LOCKED 2 son el aumento de Yen gratuito más rápido. Completa el tutorial primero, luego canjea los códigos activos en Menú > Tienda > Códigos antes de que las rotaciones los reemplacen.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "TY5KLIKES - 15k Yen (Activo)",
+          "description": "Uno de los códigos de LOCKED 2 actuales de alto valor y una fuerte inyección inicial de Yen para una cuenta nueva."
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "BUGFIX01 - 10k Yen (Activo)",
+          "description": "Código activo vinculado a la última ola de corrección de errores de LOCKED 2 y aún canjeable en la rotación actual."
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "RELEASE - 10k Yen (Activo)",
+          "description": "Código de la era de lanzamiento de LOCKED 2 que sigue siendo útil para obtener moneda inicial rápidamente."
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "Tipo de recompensa - Moneda Yen",
+          "description": "El Yen se utiliza para decisiones de personalización de LOCKED 2 y mejoras de progresión centradas en estadísticas."
+        },
+        {
+          "title": "Ruta de canje - Menú > Tienda > Códigos",
+          "description": "Termina el tutorial, presiona M o abre el menú, luego ingresa cada código de LOCKED 2 en el panel de la Tienda."
+        },
+        {
+          "title": "Lista de caducados - CODE, 70KLIKES, MEDALXLOCKED",
+          "description": "Estos nombres ya están fuera de rotación y solo deben rastrearse como referencias históricas de LOCKED 2."
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "El canje de códigos de LOCKED 2 distingue entre mayúsculas y minúsculas, así que pega cada código exactamente como está escrito.",
+        "Canjea los códigos de LOCKED 2 recién lanzados rápidamente porque los plazos de rotación pueden ser cortos.",
+        "Usa tu primer lote de Yen en mejoras adecuadas para tu rol en lugar de tiradas aleatorias iniciales.",
+        "Vuelve a consultar esta sección de LOCKED 2 después de cada ola de actualizaciones para ver nuevas adiciones."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
+      "title": "Trello y Discord de LOCKED 2",
       "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
+      "intro": "Estos canales oficiales de LOCKED 2 cubren la búsqueda de mecánicas, anuncios y acceso directo de primera mano. Mantenlos fijados mientras juegas y revisas parches.",
       "cards": [
         {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
+          "name": "Tablero oficial de Trello de LOCKED 2",
+          "description": "Ideal para revisiones rápidas de mecánicas, referencias de teclas y descripciones generales del sistema durante partidos en vivo."
         },
         {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
+          "name": "Servidor oficial de Discord de LOCKED 2",
+          "description": "Canal principal para anuncios, notas de actualización, reglas de la liga y discusión activa de la comunidad."
         },
         {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
+          "name": "Página oficial del juego LOCKED:2 en Roblox",
+          "description": "Página de inicio principal para entrar en LOCKED:2, completar el flujo del tutorial y revisar avisos del juego."
         },
         {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
+          "name": "MOMENTXM Official Roblox Group",
+          "description": "Centro de desarrolladores en Roblox que complementa la página del juego para la navegación oficial de LOCKED 2."
         }
       ],
       "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
+        "Trello para búsqueda de mecánicas",
+        "Discord para actualizaciones y reglas",
+        "Página del juego en Roblox para lanzamiento directo",
+        "Grupo MOMENTXM para seguimiento oficial del estudio"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
+      "title": "Guía para principiantes de LOCKED 2",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
+      "intro": "Los nuevos jugadores de LOCKED 2 mejoran más rápido dominando los fundamentos en orden: completar el tutorial, controles básicos, gestión de estamina, y luego el flujo específico del rol y las opciones de build.",
       "items": [
         {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
+          "name": "Completa primero el tutorial de LOCKED 2",
+          "type": "Paso 1",
+          "description": "Completar el tutorial desbloquea los menús, incluyendo el acceso a la Tienda y el canje de códigos, por lo que es tu primer paso de progresión."
         },
         {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
+          "name": "Usa PC para tu primera sesión seria",
+          "type": "Paso 2",
+          "description": "El flujo de aprendizaje inicial de LOCKED 2 suele ser más fluido en PC, especialmente durante los objetivos iniciales del tutorial."
         },
         {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
+          "name": "Practica cuatro acciones principales pronto",
+          "type": "Paso 3",
+          "description": "Prioriza el regate con LMB, el tiro con RMB, el sprint con Shift y la barrida con Q para construir un ritmo estable en el primer partido."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
+          "name": "Trata la estamina como un recurso táctico",
+          "type": "Paso 4",
+          "description": "Usa V para recuperar, luego acelera con Shift solo cuando crees espacio, una línea de entrada o una ventana de tiro."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
+          "name": "Aplica Flow, Weapon y Trait en secuencia",
+          "type": "Paso 5",
+          "description": "Una vez que el movimiento se estabilice, añade el tiempo de G Flow, R Weapon y T Trait para que tus acciones sean deliberadas bajo presión."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
+          "name": "Crea tu build en torno a la identidad del rol y el estilo de regate",
+          "type": "Paso 6",
+          "description": "LOCKED 2 recompensa la claridad de roles, así que alinea tu build con tus responsabilidades en el campo antes de buscar combos avanzados."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
+      "title": "Controles de LOCKED 2",
       "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
+      "intro": "Estos grupos de teclas de LOCKED 2 mantienen las acciones de campo y de portero en un solo lugar para que puedas practicar los controles sin perder el ritmo del partido.",
       "solutions": [
         {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
+          "name": "Ofensiva central de campo",
+          "role": "LMB | RMB | Shift | Q",
+          "description": "Regatea con LMB, tira con RMB, corre con Shift y usa la barrida con Q para disputar la posesión."
         },
         {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
+          "name": "Teclas de utilidad y habilidad de campo",
+          "role": "V | G | R | T | M | CTRL",
+          "description": "Gestiona la estamina con V, activa G Flow, R Weapon, T Trait, abre el menú con M y alterna el bloqueo de mayúsculas con CTRL."
         },
         {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
+          "name": "Conceptos básicos de atajada del portero",
+          "role": "F | C | Z",
+          "description": "Usa el bloqueo de pie con F y las estiradas con C y Z para proteger ambos lados de la portería durante la presión a corta distancia."
         },
         {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
+          "name": "Control de balón del portero",
+          "role": "E | Q | RMB",
+          "description": "Asegura con E para recoger, intercepta con el salto frontal y agarre de Q, luego reinicia el juego calculando el despeje con RMB."
         }
       ],
       "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
+        "Practica los controles de campo y de portero en sesiones separadas para evitar confusiones durante los partidos en vivo.",
+        "Mantén el Shift lock listo para un control de cámara más estable durante secuencias de defensa bajo presión.",
+        "Usa la recuperación de estamina proactivamente para que el sprint esté disponible para acciones decisivas.",
+        "Cambia las teclas solo después de sentirte cómodo; el mapeo constante ralentiza el desarrollo de la memoria muscular en LOCKED 2."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
+      "title": "Las mejores Weapons de LOCKED 2 en este momento",
       "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
+      "intro": "La reconstrucción de abril de 2026 convirtió las armas de LOCKED 2 en habilidades activas, por lo que el tiempo de ejecución importa tanto como la rareza. Esta lista de niveles se centra en el impacto actual, el ajuste al rol y la facilidad con la que cada arma se convierte en valor de juego.",
       "cards": [
         {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
+          "name": "Nivel S - Weapons que definen el meta",
+          "description": "Primal Handstand, Serpent y Emperor. Estas elecciones moldean las posesiones y definen los resultados de finalización en la mayoría de los partidos de clasificación."
         },
         {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
+          "name": "Nivel A - Fuertes y estables",
+          "description": "Crushing Header, Riptide Curve e Immense Speed. Armas flexibles de alto valor que funcionan en múltiples roles de LOCKED 2."
         },
         {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
+          "name": "Nivel B - Buenas con la configuración correcta",
+          "description": "Power Shot, Super Fast Scissors, Black Hole Trap y Bear Claw. Buen valor cuando tu sincronización, formación de equipo y contexto de rol ya son precisos."
         },
         {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
+          "name": "Nivel C - De nicho o dependientes de la ejecución",
+          "description": "Direct Shot, Bunny, Stealthy Steps y Dragon Header. Opciones jugables que necesitan una sincronización más estricta o situaciones de partido más específicas."
+        },
+        {
+          "name": "Nivel D - Elecciones de bajo impacto",
+          "description": "Stylish Reach, Monster Lift y Big Bang Drive. Pueden funcionar en pruebas, pero ofrecen un impacto menor en el partido que los niveles superiores."
         }
       ],
       "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
+        "Lectura rápida: Primal Handstand lidera la defensa, Serpent y Emperor lideran la finalización directa, y Riptide Curve sigue siendo la opción multipropósito más segura.",
+        "Elige los niveles S y A por defecto al subir de rango, a menos que tu plan de equipo de LOCKED 2 necesite una interacción específica.",
+        "Usa los niveles B y C solo cuando tu build ya soporte sus ventanas de tiempo y rutas de seguimiento.",
+        "Vuelve a consultar este módulo de niveles de armas de LOCKED 2 después de cada actualización de equilibrio o ajuste de enfriamiento."
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
+      "title": "Los mejores rasgos de LOCKED 2 para mantener",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
+      "intro": "Los mejores rasgos de LOCKED 2 resuelven problemas reales de rol: movimiento, acceso al flow, finalización en el área, robos y control de portería. Mantén los rasgos que dan valor inmediato al partido en lugar de pequeñas mejoras de estadísticas.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
+          "name": "Rasgos Esenciales para Mantener",
+          "type": "Base de Build",
+          "description": "Athlete, Puppeteer, Egoist y Meta-Vision. Prioridades máximas para mantener con impacto inmediato en la mayoría de las composiciones de LOCKED 2."
         },
         {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
+          "name": "Rasgos Fuertes para Mantener",
+          "type": "Alto Valor",
+          "description": "Golden Zone, Long Strides, Quick Draw, Calculate y Destruction. Mejoras sólidas cuando se alinean con tu arma y carril de rol."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
+          "name": "Rasgos de Elección por Rol",
+          "type": "Condicional",
+          "description": "Bunnys, Claw, Tank, Surf, Consistent y Ripper. Fuertes en carriles específicos como portero, defensa o juego de distracción con regate."
         },
         {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
+          "name": "Rasgos de Farm o Especialistas",
+          "type": "Limitado",
+          "description": "No Look, Diver, Ambidextrous, Fortune, Tireless y Powerhouse. Opciones jugables con un valor más estrecho que los rasgos generales superiores."
+        },
+        {
+          "name": "Rasgos para Reroll",
+          "type": "No Mantener",
+          "description": "Heavy, Dwarf, Weak, Lazy y Tired. Estos rasgos de LOCKED 2 reducen el valor práctico en el partido y deben reemplazarse rápidamente."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
+      "title": "Builds de Rol Copiables para LOCKED 2",
+      "displayType": "cardGrid",
+      "intro": "Una build fuerte en LOCKED 2 no es solo una tirada rara. Comienza con una tarea de rol clara, luego combina el plan de arma, prioridades de rasgos, sesgo de altura y sincronización de flow en una condición de victoria repetible.",
       "creatures": [
         {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
+          "name": "Build Todoterreno para Principiantes de LOCKED 2",
+          "role": "Mediocampista / Extremo Secundario",
+          "description": "Prioridad de arma: Riptide Curve y luego Immense Speed. Núcleo de rasgos: Athlete, Long Strides, Puppeteer. Mantén ángulos simples, circula limpiamente y ataca los medios espacios con control."
         },
         {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
+          "name": "Build de Delantero Finalizador de LOCKED 2",
+          "role": "Delantero Principal",
+          "description": "Prioridad de arma: Emperor y luego Serpent. Núcleo de rasgos: Quick Draw, Egoist, Golden Zone, Athlete. Guarda el Flow para duelos con el último defensa, rebotes y entradas al área."
         },
         {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
+          "name": "Build de Extremo Creador de LOCKED 2",
+          "role": "Extremo / Mediocampista Ofensivo",
+          "description": "Prioridad de arma: Riptide Curve, Super Fast Scissors y luego Immense Speed. Núcleo de rasgos: Long Strides, Bunnys, Calculate, Puppeteer. Ataca espacios amplios para generar separación y valor en los centros."
         },
         {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
-        },
-        {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
-        },
-        {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
-        },
-        {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
+          "name": "Build de Defensa Ancla de LOCKED 2",
+          "role": "Defensor / Portero",
+          "description": "Prioridad de arma: Primal Handstand, Bear Claw y luego Stealthy Steps. Núcleo de rasgos: Meta-Vision, Tank, Claw, Surf. Mantén el Flow para recuperaciones de emergencia, defensa en la línea de gol y reinicios tras el primer duelo."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
+      "title": "Regate en LOCKED 2 sin Pérdidas de Balón",
       "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
+      "intro": "Un buen regate en LOCKED 2 consiste primero en control de cámara, espaciado y disciplina de estamina. Las jugadas vistosas vienen después; los primeros toques limpios y el ángulo correcto ganan más posesiones.",
       "items": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
+          "name": "Activa el Shift Lock Primero",
+          "type": "Paso 1",
+          "description": "LOCKED 2 usa Ctrl Izquierdo para el Shift Lock por defecto. Cámbialo en Ajustes y Atajos de Teclado antes de comenzar a practicar regates en serio."
         },
         {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
+          "name": "Construye tu Cadena Básica de Balón",
+          "type": "Paso 2",
+          "description": "Tu cadena base es simple: LMB mantiene el regate vivo, Shift controla el ritmo, RMB es tu disparo y RMB aéreo es tu toque de cabezazo."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
+          "name": "Regatea Hacia el Espacio, no Hacia el Defensor",
+          "type": "Paso 3",
+          "description": "Toma tu siguiente toque lejos de la presión en lugar de ir directo al cuerpo. El espaciado de amortiguación obliga al defensor a girar antes de disputar el balón."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
+          "name": "Usa el Control por Tierra antes que Trucos Aéreos",
+          "type": "Paso 4",
+          "description": "Los regates por tierra son la opción más segura inicialmente. Ve por aire solo tras un rebote o una melé donde el toque extra cambie el ángulo."
         },
         {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
+          "name": "Protege tu Estamina antes de Conducciones Largas",
+          "type": "Paso 5",
+          "description": "No comiences un regate largo con la barra agotada. Reinicia, recarga y luego acelera para que aún tengas un paso final o finalización."
         },
         {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
+          "name": "Usa el Flow Después de Ganar el Primer Duelo",
+          "type": "Paso 6",
+          "description": "El Flow es más fuerte cuando extiende una ventaja que ya creaste. Supera al primer marcador primero y luego conviértelo en un tiro o pase final."
+        },
+        {
+          "name": "Termina Cada Conducción con un Propósito",
+          "type": "Paso 7",
+          "description": "Cada conducción debe terminar con uno de tres resultados: tiro, pase o toque de reinicio seguro. Recicla la posesión cuando no haya nada abierto."
         }
       ],
       "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
+        "Activa el Shift Lock antes de tu primer duelo y mantén estable la orientación de la cámara.",
+        "Supera al primer defensor con espaciado antes de añadir capas extra de regate.",
+        "Termina las conducciones con un tiro, pase o reinicio seguro en lugar de duelos forzados.",
+        "Usa el Flow de LOCKED 2 solo después de crear ventaja, no desde un toque estático."
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
-      "sections": [
+      "title": "Guía de Armas de LOCKED 2",
+      "displayType": "weaponCards",
+      "subtitle": "La actualización de armas de LOCKED 2 de abril de 2026 convirtió las armas en habilidades activas, por lo que el tiempo de uso ahora importa tanto como la rareza.",
+      "intro": "Usa esta guía cuando quieras algo más que una lista de niveles básica. Cada tarjeta te indica qué hace realmente el arma, dónde brilla y qué rol obtiene el mayor valor de ella.",
+      "items": [
         {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
+          "name": "Primal Handstand",
+          "rarity": "Épica",
+          "tier": "S",
+          "summary": "Un arma con un hitbox masivo que actualmente es una de las herramientas defensivas más fuertes en el campo.",
+          "bestFor": [
+            "Portero",
+            "Defensor"
+          ],
+          "playstyle": "Control del área, paradas de emergencia y cobertura de último hombre"
         },
         {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
+          "name": "Serpent",
+          "rarity": "Única",
+          "tier": "S",
+          "summary": "Un disparo cargado de largo alcance que también se puede usar en el aire, otorgando una presión de anotación de élite desde múltiples ángulos.",
+          "bestFor": [
+            "Delantero",
+            "Goleador Secundario"
+          ],
+          "playstyle": "Finalización de alto potencial y amenaza de largo alcance"
         },
         {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
+          "name": "Emperor",
+          "rarity": "Única",
+          "tier": "S",
+          "summary": "Otorga carga de disparo instantánea y es una de las armas de finalización más limpias en el meta actual.",
+          "bestFor": [
+            "Delantero",
+            "Extremo Interior"
+          ],
+          "playstyle": "Finalización de liberación rápida dentro o alrededor del área"
         },
         {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
+          "name": "Crushing Header",
+          "rarity": "Épica",
+          "tier": "A",
+          "summary": "Un ataque aéreo de alto impacto que facilita mucho las finalizaciones en áreas de penalti abarrotadas.",
+          "bestFor": [
+            "Delantero",
+            "Delantero Objetivo"
+          ],
+          "playstyle": "Presión aérea y goles de segundo balón"
+        },
+        {
+          "name": "Riptide Curve",
+          "rarity": "Legendaria",
+          "tier": "A",
+          "summary": "Una opción muy segura y versátil para disparos con efecto y pases de apoyo.",
+          "bestFor": [
+            "Extremo",
+            "Mediocampista",
+            "Delantero de Apoyo"
+          ],
+          "playstyle": "Creación de juego creativa y centros con efecto"
+        },
+        {
+          "name": "Immense Speed",
+          "rarity": "Legendaria",
+          "tier": "A",
+          "summary": "Aumenta la velocidad con el tiempo hasta que eres extremadamente rápido, lo cual es especialmente fuerte en personajes más bajos.",
+          "bestFor": [
+            "Extremo",
+            "Carrilero",
+            "Corredor de Transición"
+          ],
+          "playstyle": "Separación, contraataques y carreras de recuperación"
+        },
+        {
+          "name": "Power Shot",
+          "rarity": "Rara",
+          "tier": "B",
+          "summary": "Un disparo cargado cuya potencia escala bien con tu build, haciéndolo más fuerte en equipamientos avanzados.",
+          "bestFor": [
+            "Delantero",
+            "Mediocampista Ofensivo"
+          ],
+          "playstyle": "Finalización cargada y ofensiva que escala con estadísticas"
+        },
+        {
+          "name": "Super Fast Scissors",
+          "rarity": "Rara",
+          "tier": "B",
+          "summary": "Un arma de alta movilidad con i-frames incorporados que ayuda a extender combos y escapar de la presión.",
+          "bestFor": [
+            "Extremo",
+            "Regateador",
+            "Portador del Balón"
+          ],
+          "playstyle": "Reposicionamiento rápido y extensión de combos"
+        },
+        {
+          "name": "Black Hole Trap",
+          "rarity": "Épica",
+          "tier": "B",
+          "summary": "Un arma rediseñada basada en el timing que sigue siendo efectiva si dominas la ventana de activación.",
+          "bestFor": [
+            "Mediocampista",
+            "Delantero de Control"
+          ],
+          "playstyle": "Tiempo de recepción y jugadas de posesión controlada"
+        },
+        {
+          "name": "Bear Claw",
+          "rarity": "Común",
+          "tier": "B",
+          "summary": "Garantiza una captura al activarse y tiene un enfriamiento bajo permisivo, lo que la convierte en una de las herramientas defensivas más fiables.",
+          "bestFor": [
+            "Defensor",
+            "Portero"
+          ],
+          "playstyle": "Recuperación de balón simple y repetible"
+        },
+        {
+          "name": "Direct Shot",
+          "rarity": "Común",
+          "tier": "C",
+          "summary": "Un disparo basado en el timing que se vuelve extremadamente rápido cuando se libera en el momento perfecto.",
+          "bestFor": [
+            "Delantero",
+            "Cazagoles"
+          ],
+          "playstyle": "Finalización limpia al primer toque y pruebas de habilidad de tiempo"
+        },
+        {
+          "name": "Stealthy Steps",
+          "rarity": "Rara",
+          "tier": "C",
+          "summary": "Otorga un impulso de velocidad e invisibilidad parcial, con más valor en el reposicionamiento que en el ataque puro.",
+          "bestFor": [
+            "Defensor",
+            "Corredor de Banda"
+          ],
+          "playstyle": "Movimiento de recuperación y reposicionamiento sigiloso"
+        },
+        {
+          "name": "Bunny",
+          "rarity": "Rara",
+          "tier": "C",
+          "summary": "Aumenta tu salto lo suficiente como para ayudar a que las builds más bajas compitan mejor en el aire.",
+          "bestFor": [
+            "Extremo",
+            "Defensor",
+            "Duelista Aéreo"
+          ],
+          "playstyle": "Salto de utilidad y cabezazos disputados"
+        },
+        {
+          "name": "Dragon Header",
+          "rarity": "Legendaria",
+          "tier": "C",
+          "summary": "Una finalización de estilo cabezazo rápida y potente que es castigadora si tu tiempo de ejecución es incorrecto.",
+          "bestFor": [
+            "Delantero",
+            "Corredor de Segundo Palo"
+          ],
+          "playstyle": "Finalización aérea de precisión"
+        },
+        {
+          "name": "Stylish Reach",
+          "rarity": "Común",
+          "tier": "D",
+          "summary": "Agrande temporalmente tu hitbox para intercepciones, pero rara vez decide un partido por sí solo.",
+          "bestFor": [
+            "Defensor",
+            "Interceptor de Líneas de Pase"
+          ],
+          "playstyle": "Extensión de alcance simple"
+        },
+        {
+          "name": "Monster Lift",
+          "rarity": "Épica",
+          "tier": "D",
+          "summary": "Eleva el balón mientras te mueves y funciona mejor cuando se encadena con otras habilidades en lugar de usarse sola.",
+          "bestFor": [
+            "Regateador Creativo",
+            "Build de Combos"
+          ],
+          "playstyle": "Preparaciones, amagos y cadenas de habilidades de seguimiento"
+        },
+        {
+          "name": "Big Bang Drive",
+          "rarity": "Única",
+          "tier": "D",
+          "summary": "Ofrece control aéreo y potencial de disparo retardado, pero la animación lenta hace que sea fácil de leer.",
+          "bestFor": [
+            "Build de Estilo Libre",
+            "Jugadas de Estilo"
+          ],
+          "playstyle": "Lanzamientos retardados y preparaciones vistosas"
         }
-      ],
-      "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
-      "priorities": [
+      "title": "Guía de Rasgos de LOCKED 2",
+      "displayType": "traitAccordion",
+      "subtitle": "Los rasgos de LOCKED 2 añaden una capa extra a tu build, desde pequeños cambios de estadísticas hasta pasivas raras que cambian el partido.",
+      "intro": "Este módulo está diseñado para jugadores que quieren entender el conjunto de rasgos en lugar de solo memorizar nombres. Abre una sección para ver la probabilidad de obtención, los efectos principales dentro de esa rareza y el tipo de estilo de juego que más se beneficia de esos giros.",
+      "items": [
         {
-          "name": "Qualia personal",
-          "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
+          "title": "Rasgos Comunes",
+          "summary": "El grupo de giros más frecuente, compuesto principalmente por pequeños cambios de estadísticas y resultados de giros iniciales.",
+          "content": [
+            {
+              "label": "Probabilidad de obtención",
+              "value": "55%"
+            },
+            {
+              "label": "Rasgos incluidos",
+              "value": "Dwarf, Lazy, Tired, Weak, None"
+            },
+            {
+              "label": "Qué cambian",
+              "value": "Tamaño de la hitbox, velocidad, estamina, potencia de tiro o ningún bono en absoluto."
+            },
+            {
+              "label": "Lectura rápida",
+              "value": "Dwarf reduce tu hitbox; Lazy baja la velocidad; Tired baja la estamina; Weak baja la potencia de tiro."
+            }
+          ]
         },
         {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
+          "title": "Rasgos Raros",
+          "summary": "El nivel de utilidad diaria para ajustar roles y dar forma a las estadísticas de manera confiable.",
+          "content": [
+            {
+              "label": "Probabilidad de obtención",
+              "value": "30%"
+            },
+            {
+              "label": "Rasgos incluidos",
+              "value": "Long Strides, Heavy, Powerhouse, Tank, Surf, Clamps"
+            },
+            {
+              "label": "Qué cambian",
+              "value": "Velocidad de sprint, potencia de tiro, tamaño de la hitbox, distancia de barrida y rango de M2."
+            },
+            {
+              "label": "Mejor uso",
+              "value": "Long Strides ayuda al ritmo, Surf ayuda al alcance defensivo, Clamps ayuda a ganar el balón, y Powerhouse o Heavy añaden más amenaza de tiro."
+            }
+          ]
         },
         {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
+          "title": "Rasgos Exóticos",
+          "summary": "Un grupo mucho más fuerte con ayuda en enfriamientos, movimiento especializado y utilidad específica de rol.",
+          "content": [
+            {
+              "label": "Probabilidad de obtención",
+              "value": "10%"
+            },
+            {
+              "label": "Rasgos incluidos",
+              "value": "Unbreakable, Fortune, Ripper, Bunnys, Quick Draw, Consistent, No Look, Athlete, Tireless, Claw, Diver"
+            },
+            {
+              "label": "Qué cambian",
+              "value": "Seguridad de tobillos, dinero extra en juegos automáticos, ragdolls más largos, más salto, carga de tiro 50% más rápida, 15% de reducción de enfriamiento, tiros sin shiftlock potenciados, mejoras de múltiples estadísticas, más estamina, probabilidad de robo en bloqueos y lanzamientos de portero más rápidos."
+            },
+            {
+              "label": "Mejor uso",
+              "value": "Quick Draw y Consistent se adaptan a builds de habilidades activas, Athlete es un todoterreno versátil, Claw recompensa las lecturas defensivas y Diver es un rasgo puro de portero."
+            }
+          ]
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
+          "title": "Rasgos Legendarios",
+          "summary": "Pasivas de baja probabilidad que pueden redefinir cómo juega toda tu build en torno al ego, tiros, hitboxes o apoyo al equipo.",
+          "content": [
+            {
+              "label": "Probabilidad de obtención",
+              "value": "5%"
+            },
+            {
+              "label": "Rasgos incluidos",
+              "value": "Golden Zone, Egoist, Meta-Vision, Ambidextrous, Puppeteer"
+            },
+            {
+              "label": "Qué cambian",
+              "value": "Golden Zone mejora los tiros desde su zona, Egoist otorga 4x de Ego, Meta-Vision aumenta las hitboxes y protege contra roturas de tobillo mientras está activo, Ambidextrous puede potenciar tiros desde el lado de la pierna brillante, y Puppeteer carga el Flow para cinco compañeros cercanos."
+            },
+            {
+              "label": "Mejor uso",
+              "value": "Golden Zone y Ambidextrous recompensan a los finalizadores, Meta-Vision ayuda al control del balón y la cobertura, y Puppeteer es el giro más orientado al equipo del grupo."
+            }
+          ]
         },
         {
-          "name": "Guante planeador",
-          "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
-        },
-        {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
+          "title": "Rasgos Exclusivos",
+          "summary": "El nivel de rasgos más raro, construido en torno a habilidades insignia vinculadas a estilos de armas específicos.",
+          "content": [
+            {
+              "label": "Probabilidad de obtención",
+              "value": "0.5%"
+            },
+            {
+              "label": "Rasgos incluidos",
+              "value": "Destruction, Dragon, Twin Guns, Calculate, Revolver"
+            },
+            {
+              "label": "Qué cambian",
+              "value": "Destruction potencia el siguiente Riptide, Dragon añade una activación de cabezazo fuerte, Twin Guns crea una secuencia de finta y Direct Shot real, Calculate otorga un buff de velocidad a través de pases Riptide, y Revolver te desplaza en la dirección de la cámara."
+            },
+            {
+              "label": "Mejor uso",
+              "value": "Estos giros son más fuertes cuando tu build ya se inclina hacia Riptide, Direct Shot, cabezazos o patrones de juego de atrapar y arrancar."
+            }
+          ]
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
-      "groups": [
+      "title": "Guía de Flow de LOCKED 2",
+      "displayType": "flowCards",
+      "subtitle": "El Flow es un sistema de poder central en LOCKED 2 que combina un estado activo en el partido, un bono de estadística obtenido por giro y una variante visual.",
+      "intro": "Abre este módulo cuando quieras entender ambos lados del Flow: el giro de estadística real y la identidad visual asociada a él. En el LOCKED 2 actual, el Yen se puede gastar en desbloqueos relacionados con el Flow, y el estado de Flow activo sigue siendo uno de los momentos de mayor cambio en un partido.",
+      "items": [
         {
-          "name": "Exploración",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
-            }
-          ]
+          "name": "Conceptos Básicos del Estado de Flow",
+          "type": "Sistema Central",
+          "summary": "El Flow es un estado activo temporal que se usa durante los partidos.",
+          "details": "Actívalo con G. Cada giro de Flow otorga un bono de entre 5% y 15% en una categoría: Fuerza, Velocidad, Estamina, Enfriamiento o Hitbox.",
+          "bestWith": "Cualquier rol, porque el valor proviene de la categoría de estadística que obtuviste."
         },
         {
-          "name": "Artesanía e invocación",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
-            },
-            {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
-            }
-          ]
+          "name": "Estado de Flow de Velocidad",
+          "type": "Categoría de Mejora",
+          "summary": "Un giro de velocidad aumenta qué tan rápido se mueve tu jugador durante la ventana de Flow activo.",
+          "details": "La mejora se determina dentro del rango del 5% al 15%.",
+          "bestWith": "Extremos, defensas de recuperación y cualquier build que gane mediante la separación."
         },
         {
-          "name": "Movilidad y utilidad",
-          "achievements": [
-            {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
-            },
-            {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
-            },
-            {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
-            }
-          ]
+          "name": "Estado de Flow de Fuerza",
+          "type": "Categoría de Mejora",
+          "summary": "Un giro de fuerza aumenta el poder físico de tu ventana de Flow.",
+          "details": "La mejora se determina dentro del rango del 5% al 15%.",
+          "bestWith": "Finalizadores y builds enfocadas en la potencia."
         },
         {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
-          ]
+          "name": "Estado de Flow de Estamina",
+          "type": "Categoría de Mejora",
+          "summary": "Un giro de estamina te ayuda a mantenerte efectivo por más tiempo mientras el Flow está activo.",
+          "details": "La mejora se determina dentro del rango del 5% al 15%.",
+          "bestWith": "Mediocampistas, corredores de banda y roles de mucho movimiento."
         },
         {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
-            }
-          ]
+          "name": "Estado de Flow de Enfriamiento",
+          "type": "Categoría de Mejora",
+          "summary": "Un giro de enfriamiento mejora la rapidez con la que tu build vuelve a tener disponibles sus herramientas.",
+          "details": "La mejora se determina dentro del rango del 5% al 15%.",
+          "bestWith": "Jugadores de habilidades activas que quieren ventanas de repetición más fluidas."
+        },
+        {
+          "name": "Estado de Flow de Hitbox",
+          "type": "Categoría de Mejora",
+          "summary": "Un giro de hitbox te otorga una presencia activa mayor durante la ventana de Flow.",
+          "details": "La mejora se determina dentro del rango del 5% al 15%.",
+          "bestWith": "Defensas, porteros y builds centradas en intercepciones."
+        },
+        {
+          "name": "Puzzle",
+          "type": "Variante de Flow",
+          "summary": "Piezas de rompecabezas flotan alrededor de tu jugador mientras el Flow está activo.",
+          "details": "Inspirado en Isagi Yoichi.",
+          "bestWith": "Jugadores que quieren un aspecto visual limpio de estilo creador de juego."
+        },
+        {
+          "name": "Lightning",
+          "type": "Variante de Flow",
+          "summary": "Rayos verdes y negros crujen alrededor del jugador durante el Flow.",
+          "details": "Inspirado en Barou Shouei.",
+          "bestWith": "Builds agresivas y directas que quieren un aspecto visual de alta energía."
+        },
+        {
+          "name": "Demon Wings",
+          "type": "Variante de Flow",
+          "summary": "Alas de demonio esqueléticas aparecen en tu espalda con un aura rojo-rosado.",
+          "details": "Inspirado en Shidou Ryusei.",
+          "bestWith": "Builds aéreas o de finalización caótica que gustan de un perfil visual llamativo."
+        },
+        {
+          "name": "Genius",
+          "type": "Variante de Flow",
+          "summary": "Números y estelas blancas rodean a tu jugador mientras el Flow está activo.",
+          "details": "Inspirado en Sae Itoshi.",
+          "bestWith": "Estética de creador de juego con mucho control."
+        },
+        {
+          "name": "Vines",
+          "type": "Variante de Flow",
+          "summary": "Enredaderas y estelas tipo pétalos de rosa envuelven al personaje durante el Flow.",
+          "details": "Inspirado en Michael Kaiser.",
+          "bestWith": "Builds de ataque creativas y delanteros con estilo."
+        },
+        {
+          "name": "Monster",
+          "type": "Variante de Flow",
+          "summary": "Ojos brillantes y una estela de fuego le dan a tu Flow un aspecto más feroz.",
+          "details": "Inspirado en Meguru Bachira.",
+          "bestWith": "Jugadores centrados en el regate y creadores poco convencionales."
+        },
+        {
+          "name": "Snake",
+          "type": "Variante de Flow",
+          "summary": "Dos auras de diferentes colores se dividen a través del modelo del personaje.",
+          "details": "Inspirado en Oliver Aiku.",
+          "bestWith": "Jugadores de mentalidad defensiva que quieren un visual destacado."
+        },
+        {
+          "name": "Wild Card",
+          "type": "Variante de Flow",
+          "summary": "Llamas y cuatro cartas de as flotan alrededor de tu jugador.",
+          "details": "Inspirado en Rensuke Kunigami.",
+          "bestWith": "Builds de finalizador que quieren un aspecto de Flow dramático."
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
-      "faqs": [
+      "title": "Guía de Posiciones de LOCKED 2",
+      "displayType": "positionAccordion",
+      "subtitle": "Esta guía de posiciones de LOCKED 2 se enfoca en las responsabilidades de cada rol, direcciones de armas útiles y los controles en los que más confiarás.",
+      "intro": "Una buena guía de posiciones debe decirles a los jugadores cómo comportarse en el campo, no solo dónde pararse. Usa estas secciones para emparejar tu rol con las responsabilidades correctas, hábitos de botones y dirección de armas.",
+      "items": [
         {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
+          "title": "Delantero",
+          "summary": "Tu trabajo es finalizar las jugadas rápidamente y convertir los buenos pases en goles.",
+          "content": [
+            {
+              "label": "Tarea principal",
+              "value": "Atacar el área, medir el tiempo de la carrera final y disparar antes de que la defensa se reorganice."
+            },
+            {
+              "label": "Direcciones de armas",
+              "value": "Emperor para finalizaciones rápidas, Serpent para presión a larga distancia, Crushing Header para balones aéreos y Direct Shot para remates basados en el tiempo."
+            },
+            {
+              "label": "Controles clave",
+              "value": "RMB para disparar o cargar, RMB en el aire para un cabezazo, R para tu arma y G para activar el Flow."
+            },
+            {
+              "label": "Lo que suele salir mal",
+              "value": "Dar un toque de más entre los defensas y permitir que una oportunidad clara se convierta en un bloqueo."
+            }
+          ]
         },
         {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
+          "title": "Extremo",
+          "summary": "Creas amplitud, llevas el balón hacia mejores ángulos y obligas a la línea defensiva a moverse.",
+          "content": [
+            {
+              "label": "Tarea principal",
+              "value": "Superar al primer marcador, ensanchar el campo y convertir la posesión en las bandas en centros, cortes hacia adentro o recuperaciones."
+            },
+            {
+              "label": "Direcciones de armas",
+              "value": "Immense Speed para conducciones largas, Super Fast Scissors para movimiento e i-frames, Riptide Curve para centros y Bunny para utilidad aérea adicional."
+            },
+            {
+              "label": "Controles clave",
+              "value": "LMB para mantener el regate, Shift para correr, RMB para disparar o centrar desde tu ángulo, y R o G cuando encuentres el espacio."
+            },
+            {
+              "label": "Lo que suele salir mal",
+              "value": "Cerrarse hacia el centro demasiado pronto y eliminar la amplitud que tu equipo necesita."
+            }
+          ]
         },
         {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
+          "title": "Mediocampista",
+          "summary": "Un mediocampista inicia las secuencias de ataque y ayuda a equilibrar el ataque con la defensa.",
+          "content": [
+            {
+              "label": "Tarea principal",
+              "value": "Iniciar jugadas, conectar fases y mantener al equipo estable entre el ataque y la defensa."
+            },
+            {
+              "label": "Direcciones de armas",
+              "value": "Riptide Curve para pases de apoyo, Power Shot para amenaza de disparo tardío, Black Hole Trap para control y Super Fast Scissors para rutas de escape."
+            },
+            {
+              "label": "Controles clave",
+              "value": "LMB para conducciones, RMB para distribución o disparos, Q para desafíos defensivos, y G o R cuando necesites cambiar el ritmo."
+            },
+            {
+              "label": "Lo que suele salir mal",
+              "value": "Retener el balón demasiado tiempo y dejar expuesta la formación del equipo."
+            }
+          ]
         },
         {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
+          "title": "Defensa",
+          "summary": "Un defensa frena el juego, gana tiempo para que sus compañeros se recuperen y roba el balón en el momento adecuado.",
+          "content": [
+            {
+              "label": "Tarea principal",
+              "value": "Proteger el carril peligroso, retrasar el ataque y ganar el balón sin desproteger a toda la línea defensiva."
+            },
+            {
+              "label": "Direcciones de armas",
+              "value": "Primal Handstand para un gran alcance defensivo, Bear Claw para capturas limpias, Stealthy Steps para movimiento de recuperación y Stylish Reach para cobertura de interceptación adicional."
+            },
+            {
+              "label": "Controles clave",
+              "value": "Q para barrerse, LMB y movimiento para posicionamiento corporal, R para activar tu arma y G cuando aparezca una oportunidad de cambio defensivo."
+            },
+            {
+              "label": "Lo que suele salir mal",
+              "value": "Lanzarse demasiado pronto en lugar de obligar al atacante a ir hacia un ángulo peor."
+            }
+          ]
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
-        },
-        {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
-        },
-        {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "title": "Portero",
+          "summary": "Eres la última parada y la forma más rápida de reorganizar a tu equipo tras una atajada.",
+          "content": [
+            {
+              "label": "Tarea principal",
+              "value": "Leer el disparo, proteger el poste cercano, recoger balones sueltos y reiniciar el juego limpiamente."
+            },
+            {
+              "label": "Direcciones de armas",
+              "value": "Primal Handstand es la opción destacada para cobertura pura de atajadas, mientras que Bear Claw es una opción muy confiable con menor tiempo de recarga."
+            },
+            {
+              "label": "Controles clave",
+              "value": "F para bloqueo de pie, C y Z para lanzarse a los lados, E para recoger el balón, Q para el lanzamiento frontal y agarre, RMB para despejar, además de R y G para el arma y el Flow."
+            },
+            {
+              "label": "Lo que suele salir mal",
+              "value": "Comprometerse con el lanzamiento antes de que la trayectoria del disparo se muestre por completo."
+            }
+          ]
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
-      "faqs": [
+      "title": "Guía de Altura de LOCKED 2",
+      "displayType": "comparisonTable",
+      "intro": "Las elecciones de altura en LOCKED 2 definen la velocidad, resistencia, potencia de disparo y alcance. Usa esta comparativa para elegir una configuración que se adapte a tu rol antes de gastar Yen en rerolls.",
+      "comparison": [
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
+          "profile": "Configuración Baja de LOCKED 2",
+          "heightRange": "5'3-5'8",
+          "speed": "Mayor velocidad de carrera",
+          "stamina": "Mayor resistencia",
+          "shotPower": "Menor potencia de disparo",
+          "hitbox": "Cuerpo más pequeño",
+          "bestFor": "Conducción de balón, carreras de recuperación, perseguir oponentes y estilos de juego basados en la velocidad"
         },
         {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
-        },
-        {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
-        },
-        {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
+          "profile": "Configuración Alta de LOCKED 2",
+          "heightRange": "5'9-6'3",
+          "speed": "Menor velocidad de carrera",
+          "stamina": "Menor resistencia",
+          "shotPower": "Mayor potencia de disparo",
+          "hitbox": "Cuerpo más grande",
+          "bestFor": "Finalización, disparos lejanos, presencia física y duelos más fuertes en el área"
         }
+      ],
+      "notes": [
+        "Las configuraciones bajas de LOCKED 2 suelen ser mejores para presionar a un ritmo alto y carriles de recuperación rápidos.",
+        "Las configuraciones altas de LOCKED 2 sacrifican ritmo por mejores resultados en los disparos y una mayor cobertura en los duelos.",
+        "Usa Menú > Teleport > Customisation > Physical > Roll Height cuando necesites cambiar el enfoque de tu perfil."
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
-      "settings": [
+      "title": "Guía de Portero de LOCKED 2",
+      "displayType": "stepByStep",
+      "intro": "Ser portero en LOCKED 2 recompensa las lecturas rápidas y los controles precisos. Practica el kit básico de atajadas hasta que cada elección sea automática, luego enfócate en asegurar la posesión y la distribución temprana.",
+      "steps": [
         {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
+          "step": 1,
+          "title": "Configura primero el control de cámara de LOCKED 2",
+          "description": "LOCKED 2 usa Left Ctrl para el Shift Lock por defecto. Cámbialo en Settings > Keybinds antes de entrar a la cola si es necesario.",
+          "keys": [
+            "Left Ctrl"
+          ]
         },
         {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
+          "step": 2,
+          "title": "Memoriza las seis acciones principales del portero",
+          "description": "Mantén tus opciones de atajada simples: bloqueo de pie para disparos al cuerpo, lanzamientos laterales para las esquinas, lanzamiento frontal para toques sueltos, luego recoger y despejar para reiniciar.",
+          "keys": [
+            "F = Bloqueo de pie",
+            "C = Lanzarse a la derecha",
+            "Z = Lanzarse a la izquierda",
+            "Q = Lanzamiento frontal + Agarre",
+            "E = Recoger balón",
+            "RMB = Despeje"
+          ]
         },
         {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
+          "step": 3,
+          "title": "Empareja cada atajada con la trayectoria del disparo",
+          "description": "Usa F cuando el remate sea central, usa C o Z para carriles más amplios, y usa Q cuando los atacantes regateen de más dentro de tu alcance.",
+          "keys": [
+            "F",
+            "C",
+            "Z",
+            "Q"
+          ]
         },
         {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
+          "step": 4,
+          "title": "Asegura la posesión y despeja pronto",
+          "description": "Después de cada atajada limpia, usa E para asegurar el balón primero y RMB para despejar antes de que la presión se cierre sobre tu área.",
+          "keys": [
+            "E",
+            "RMB"
+          ]
+        },
+        {
+          "step": 5,
+          "title": "Usa armas defensivas que funcionen bien en LOCKED 2",
+          "description": "Primal Handstand y Bear Claw siguen siendo las elecciones de portero más confiables para una cobertura defensiva estable bajo presión.",
+          "keys": [
+            "Primal Handstand",
+            "Bear Claw"
+          ]
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
-      "entries": [
+      "title": "Modo Torneo de LOCKED 2",
+      "displayType": "stepByStep",
+      "intro": "Las partidas de torneo de LOCKED 2 se basan en la entrada a la cola, la coordinación de eventos y la ejecución disciplinada. Usa este flujo para llegar preparado a las rondas competitivas.",
+      "steps": [
         {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
+          "step": 1,
+          "title": "Únete a través de la cola de torneo de LOCKED 2",
+          "description": "Usa el punto de cola del lobby central para entrar al torneo en lugar de los carriles casuales estándar.",
+          "keys": [
+            "Cola central",
+            "Cola de torneo"
+          ]
         },
         {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
+          "step": 2,
+          "title": "Revisa las actualizaciones oficiales de eventos de LOCKED 2 antes de hacer cola",
+          "description": "Revisa los anuncios oficiales de Discord para que tu equipo tenga la ventana del evento, las reglas y las notas de las llaves más recientes.",
+          "keys": [
+            "Actualizaciones oficiales de Discord"
+          ]
         },
         {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "step": 3,
+          "title": "Bloquea tus teclas y ajustes de cámara por adelantado",
+          "description": "Confirma el Shift Lock y los controles de rol antes de entrar para evitar errores de configuración durante las rondas en vivo.",
+          "keys": [
+            "Left Ctrl = Shift Lock",
+            "Ajustes > Teclas"
+          ]
+        },
+        {
+          "step": 4,
+          "title": "Lleva armas activas confiables",
+          "description": "El ritmo del torneo premia la consistencia sobre la rareza, así que prioriza opciones probadas que tu alineación pueda ejecutar con limpieza.",
+          "keys": [
+            "Primal Handstand",
+            "Bear Claw",
+            "Riptide Curve",
+            "Emperor",
+            "Immense Speed"
+          ]
+        },
+        {
+          "step": 5,
+          "title": "Juega un fútbol de torneo de LOCKED 2 simple y controlado",
+          "description": "Prioriza la calidad del primer toque, los despejes seguros y las activaciones limpias en lugar de forzar jugadas heroicas de bajo porcentaje.",
+          "keys": [
+            "Sincronización",
+            "Posicionamiento",
+            "Primer toque",
+            "Despeje seguro"
+          ]
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
-      "steps": [
+      "title": "Registro de actualizaciones de LOCKED 2",
+      "displayType": "timelineCards",
+      "intro": "Esta línea de tiempo de LOCKED 2 destaca los cambios principales que transformaron cómo los jugadores arman equipos, usan armas y siguen las actualizaciones en vivo.",
+      "timeline": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "date": "Legacy LOCKED era",
+          "title": "LOCKED 2 heredó la base central del control de fútbol",
+          "summary": "El ciclo original ya combinaba controles de jugador, controles de portero, regate, tiro, flujo, armas, rasgos, estamina y shift lock en partidos en vivo.",
+          "highlights": [
+            "Base de control de regate con M1 y tiro con M2",
+            "Los sistemas de flujo, armas, rasgos y estamina existían antes de LOCKED 2",
+            "Los espacios de torneo eran parte de la estructura competitiva anterior"
+          ]
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "date": "LOCKED:2 launch build",
+          "title": "LOCKED 2 se lanzó como un rediseño desde cero",
+          "summary": "La versión de lanzamiento posicionó a LOCKED 2 como una versión reconstruida centrada en sistemas refinados, mejor rendimiento y un ritmo competitivo más fuerte.",
+          "highlights": [
+            "Reconstrucción desde cero",
+            "Sistemas refinados",
+            "Enfoque competitivo más sólido"
+          ]
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
+          "date": "April 15, 2026",
+          "title": "Las armas de LOCKED 2 pasaron de ser pasivas a activables",
+          "summary": "La sincronización manual se volvió esencial a medida que las armas se alejaron de las mejoras pasivas y se orientaron hacia un impacto basado en la activación.",
+          "highlights": [
+            "Bear Claw garantiza una captura al activarse",
+            "Power Shot se convirtió en un remate basado en carga",
+            "Primal Handstand surgió como una opción defensiva premium"
+          ]
         },
         {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
+          "date": "April 16, 2026",
+          "title": "El meta inicial de armas de LOCKED 2 se formó rápidamente",
+          "summary": "El seguimiento inicial de niveles se estableció en torno a la estabilidad defensiva y el remate instantáneo, con varias elecciones convirtiéndose en estándares tempranos.",
+          "highlights": [
+            "Nivel superior: Primal Handstand, Serpent, Emperor",
+            "Seguimientos de alto valor: Crushing Header, Riptide Curve, Immense Speed",
+            "El valor defensivo se estabilizó más rápido de lo esperado"
+          ]
         },
         {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "date": "April 19, 2026",
+          "title": "El Discord oficial se convirtió en el centro de actualizaciones en vivo de LOCKED 2",
+          "summary": "Los anuncios en vivo, la discusión de builds y las actualizaciones de eventos se movieron más rápido a través del flujo de trabajo del Discord de la comunidad.",
+          "highlights": [
+            "Anuncios en vivo",
+            "Discusión de builds",
+            "Actualizaciones de eventos"
+          ]
+        },
+        {
+          "date": "April 19, 2026",
+          "title": "Los códigos de la semana de lanzamiento de LOCKED 2 entregaron recompensas tempranas de Yen",
+          "summary": "El seguimiento del lanzamiento confirmó una primera ola de recompensas que apoyó la personalización temprana y la planificación de rerolls.",
+          "highlights": [
+            "RELEASE = 10k Yen",
+            "BUGFIX01 = 10k Yen",
+            "TY5KLIKES = 15k Yen"
+          ]
         }
       ]
     }
   },
   "faq": {
-    "title": "Preguntas",
-    "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "title": "Preguntas frecuentes de LOCKED 2",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber antes de tu próxima sesión de juego en LOCKED 2",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Cómo canjeo los códigos de LOCKED 2 rápidamente?",
+        "answer": "Abre Menú > Tienda > Códigos después de completar el tutorial, luego ingresa cada código activo de LOCKED 2 exactamente como aparece."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Qué debería aprender primero en LOCKED 2?",
+        "answer": "Comienza con los controles básicos, la gestión de la estamina y decisiones de rol seguras antes de añadir regates avanzados y ejecución de combos."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Dónde puedo encontrar las actualizaciones oficiales de LOCKED 2?",
+        "answer": "Usa el Discord oficial de LOCKED 2, el tablero de Trello, la página del juego en Roblox y el grupo de MOMENTXM para los canales de actualización oficiales."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "¿Cuál es el enfoque de build más seguro en LOCKED 2 para principiantes?",
+        "answer": "Usa builds estables centradas en el rol con armas y rasgos confiables, luego especialízate una vez que tus fundamentos sean consistentes."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
+        "question": "¿Con qué frecuencia debo revisar las tier lists de LOCKED 2?",
+        "answer": "Vuelve a revisar los niveles de armas y rasgos de LOCKED 2 después de cada ola de actualizaciones, ya que los cambios de equilibrio pueden alterar rápidamente el valor práctico."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "¿Cómo mejoro la consistencia del portero en LOCKED 2?",
+        "answer": "Practica la disciplina de ángulos, la sincronización deliberada de estiradas y opciones de distribución más limpias después de cada parada."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "¿Listo para mejorar en LOCKED 2?",
+    "description": "Únete a los canales oficiales de LOCKED 2 para obtener códigos nuevos, alertas de actualización y discusiones de partidos competitivos.",
+    "joinCommunity": "Únete al Discord de LOCKED 2",
+    "joinGame": "Juega LOCKED:2 en Roblox"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "Wiki de LOCKED 2",
+    "description": "Tu centro de recursos completo de LOCKED 2 para códigos, controles, builds, listas de niveles y guías competitivas por rol.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
+    "discord": "Discord oficial",
+    "twitter": "YouTube oficial",
+    "steamCommunity": "Roblox Group oficial",
+    "steamStore": "Juega LOCKED:2 en Roblox",
     "about": "Acerca de",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
-    "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
-    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Wiki de LOCKED 2. Sitio de recursos no oficial creado por fans.",
+    "disclaimer": "Wiki de LOCKED 2 no está afiliada con Roblox Corporation ni con MOMENTXM."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
-      "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+    "codes": {
+      "title": "Códigos de LOCKED 2",
+      "description": "Los últimos códigos de LOCKED 2 que funcionan para obtener Yen gratis, moneda de bonificación y ayuda rápida para canjearlos.",
+      "metaTitle": "Códigos de LOCKED 2 - Recompensas activas y pasos para canjear",
+      "metaDescription": "Encuentra códigos de LOCKED 2 activos, reclama recompensas de Yen gratis y sigue pasos rápidos de canje para cada ciclo de actualización.",
+      "categoryLabel": "CÓDIGOS DE LOCKED 2",
+      "whatIs": "¿Qué son los códigos de LOCKED 2?",
+      "whatIsDescription": "Los códigos de LOCKED 2 son cadenas de recompensa limitadas de los desarrolladores que otorgan Yen gratis y bonificaciones de eventos. Este centro de /codes rastrea los códigos activos, expirados y recién añadidos.",
+      "why": "¿Por qué revisar los códigos de LOCKED 2?",
       "whySteps": {
-        "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Title": "Reclama Yen gratis más rápido",
+        "step1Description": "Canjea códigos de LOCKED 2 activos temprano para financiar builds, rolls y experimentos sin esfuerzo adicional.",
+        "step2Title": "Evita entradas expiradas",
+        "step2Description": "Usa una lista depurada que separa los lotes de códigos activos y expirados para que cada intento de canje sea eficiente.",
+        "step3Title": "Sigue los nuevos lanzamientos",
+        "step3Description": "Rastrea los lanzamientos del día de actualización y los eventos de la comunidad donde suelen aparecer primero los nuevos códigos de LOCKED 2."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los códigos de LOCKED 2"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "guide": {
+      "title": "Guía de LOCKED 2",
+      "description": "Cobertura esencial de la guía de LOCKED 2 para controles, regates, ajustes, consejos y fundamentos de los partidos.",
+      "metaTitle": "Guía de LOCKED 2 - Controles, regates y fundamentos para principiantes",
+      "metaDescription": "Lee el centro de la guía de LOCKED 2 para conocer los conceptos básicos de configuración, mecánicas de regate, controles y pasos prácticos para mejorar en los partidos.",
+      "categoryLabel": "GUÍA DE LOCKED 2",
+      "whatIs": "¿Qué es el centro de la guía de LOCKED 2?",
+      "whatIsDescription": "La sección /guide recopila artículos de aprendizaje básicos para LOCKED 2, incluyendo incorporación para principiantes, control de movimiento, ritmo de regate, optimización de ajustes y navegación por el mapa.",
+      "why": "¿Por qué usar el centro de la guía de LOCKED 2?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Construye bases sólidas",
+        "step1Description": "Aprende los controles, la cámara y el manejo de la resistencia antes de saltar a entornos competitivos o de práctica más difíciles.",
+        "step2Title": "Mejora las decisiones en el partido",
+        "step2Description": "Aplica hábitos prácticos de posicionamiento y pase de guías específicas en lugar de confiar en el ensayo y error aleatorio.",
+        "step3Title": "Entrena con estructura",
+        "step3Description": "Usa una ruta de progresión clara desde temas de la guía de LOCKED 2 para principiantes hasta avanzados para que las sesiones de práctica se mantengan enfocadas."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de la guía de LOCKED 2"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "weapons": {
+      "title": "Armas de LOCKED 2",
+      "description": "Compara las armas de LOCKED 2 con su ajuste al rol, fortalezas, debilidades y notas de uso práctico.",
+      "metaTitle": "Armas de LOCKED 2 - Notas de nivel, fortalezas y ajuste al rol",
+      "metaDescription": "Explora las armas de LOCKED 2 para evaluación de niveles, comportamiento de habilidades, valor en enfrentamientos y recomendaciones específicas por posición.",
+      "categoryLabel": "ARMAS DE LOCKED 2",
+      "whatIs": "¿Qué son las armas de LOCKED 2?",
+      "whatIsDescription": "Las armas de LOCKED 2 son kits de habilidades básicos que definen tus rutas de tiro, presión de regate e identidad de juego. El centro de /weapons compara cada opción por su valor real en el partido.",
+      "why": "¿Por qué estudiar las armas de LOCKED 2?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Elige el kit adecuado",
+        "step1Description": "Combina cada arma con tu rol y ritmo preferido para que tu conjunto de herramientas respalde decisiones consistentes.",
+        "step2Title": "Comprende las compensaciones",
+        "step2Description": "Mira cuándo una opción de alta potencia supera a los kits enfocados en la movilidad y cuándo ocurre lo contrario.",
+        "step3Title": "Mejora la sinergia de la build",
+        "step3Description": "Combina las armas de LOCKED 2 con builds compatibles para maximizar la tasa de conversión en momentos críticos."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las armas de LOCKED 2"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "builds": {
+      "title": "Builds de LOCKED 2",
+      "description": "Builds de LOCKED 2 basadas en roles para delantero, mediocampista y estilos de juego híbridos en el meta actual.",
+      "metaTitle": "Builds de LOCKED 2 - Mejores configuraciones para cada posición",
+      "metaDescription": "Explora las builds de LOCKED 2 para configuraciones enfocadas en el rol, prioridades de estadísticas y combinaciones de armas que se ajustan a las actualizaciones actuales.",
+      "categoryLabel": "BUILDS DE LOCKED 2",
+      "whatIs": "¿Qué son las builds de LOCKED 2?",
+      "whatIsDescription": "Las builds de LOCKED 2 combinan la identidad de la posición, las prioridades de estadísticas y las elecciones de armas en configuraciones de partido repetibles. La sección /builds desglosa plantillas prácticas para cada rol.",
+      "why": "¿Por qué optimizar las builds de LOCKED 2?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Ajústate a tu posición",
+        "step1Description": "Usa builds adaptadas a las responsabilidades de delantero, mediocampo o apoyo en lugar de ajustes preestablecidos genéricos.",
+        "step2Title": "Escala con las actualizaciones",
+        "step2Description": "Actualiza las prioridades de estadísticas y armas rápidamente después de cambios de equilibrio sin tener que reconstruir desde cero.",
+        "step3Title": "Reduce el ruido de las pruebas",
+        "step3Description": "Comienza con builds de LOCKED 2 probadas para que el tiempo de práctica se dedique a la ejecución, no a reinicios de configuración aleatorios."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las builds de LOCKED 2"
     },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
+    "links": {
+      "title": "Enlaces de LOCKED 2",
+      "description": "Enlaces oficiales de LOCKED 2 para Discord, Trello, centros comunitarios y recursos externos clave.",
+      "metaTitle": "Enlaces de LOCKED 2 - Discord oficial, Trello y centros comunitarios",
+      "metaDescription": "Abre enlaces verificados de LOCKED 2 a canales oficiales de Discord, tableros de Trello y las principales páginas de discusión de la comunidad.",
+      "categoryLabel": "ENLACES DE LOCKED 2",
+      "whatIs": "¿Qué son los enlaces de LOCKED 2?",
+      "whatIsDescription": "La sección /links es un directorio de acceso rápido para destinos externos de LOCKED 2, incluyendo canales oficiales, espacios de discusión y recursos de planificación utilizados por jugadores activos.",
+      "why": "¿Por qué mantener los enlaces de LOCKED 2 en marcadores?",
       "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
+        "step1Title": "Encuentra canales oficiales",
+        "step1Description": "Ve directamente a Discord y a las fuentes de la hoja de ruta para anuncios, correcciones y avisos de eventos.",
+        "step2Title": "Rastrea señales de la comunidad",
+        "step2Description": "Sigue Reddit y centros relacionados para monitorear cambios en el meta, equipamientos y estrategias de partido de jugadores reales.",
+        "step3Title": "Ahorra tiempo de navegación",
+        "step3Description": "Usa una sola página de enlaces de LOCKED 2 en lugar de buscar en múltiples plataformas antes de cada sesión."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los enlaces de LOCKED 2"
     },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
+    "release": {
+      "title": "Lanzamiento de LOCKED 2",
+      "description": "Cobertura del lanzamiento de LOCKED 2 con cronograma de salida, contexto de la beta y detalles de disponibilidad oficial.",
+      "metaTitle": "Lanzamiento de LOCKED 2 - Fecha de salida, notas de la beta y disponibilidad",
+      "metaDescription": "Sigue la información del lanzamiento de LOCKED 2, ventanas de salida, hitos de la beta y actualizaciones de disponibilidad en plataformas.",
+      "categoryLabel": "LANZAMIENTO DE LOCKED 2",
+      "whatIs": "¿Qué es la cobertura del lanzamiento de LOCKED 2?",
+      "whatIsDescription": "La sección /release documenta los tiempos de salida, los hitos del paso de beta a versión final y las actualizaciones del estado de acceso para que los jugadores puedan prepararse para las ventanas oficiales de despliegue de LOCKED 2.",
+      "why": "¿Por qué seguir las actualizaciones del lanzamiento de LOCKED 2?",
       "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
+        "step1Title": "Prepárate para las ventanas de lanzamiento",
+        "step1Description": "Conoce los cambios exactos en el lanzamiento y horarios de salida para programar reinicios, sesiones de equipo y rutas de progresión temprana.",
+        "step2Title": "Entiende el contexto de la versión",
+        "step2Description": "Compara el comportamiento de la beta con el del lanzamiento antes de comprometerte con builds finales y elecciones de roles.",
+        "step3Title": "Monitorea los cambios de acceso",
+        "step3Description": "Mantente al día con los horarios por región del lanzamiento de LOCKED 2 y los detalles de entrada cuando las reglas de despliegue cambien."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos del lanzamiento de LOCKED 2"
+    },
+    "update": {
+      "title": "Actualización de LOCKED 2",
+      "description": "Cobertura de actualizaciones de LOCKED 2 para notas del parche, cambios de equilibrio y cada nueva adición importante.",
+      "metaTitle": "Actualización de LOCKED 2 - Notas del parche, cambios de equilibrio y contenido nuevo",
+      "metaDescription": "Lee cada actualización de LOCKED 2 con lo más destacado del parche, el impacto en el equilibrio y notas prácticas para adaptar builds rápidamente.",
+      "categoryLabel": "ACTUALIZACIÓN DE LOCKED 2",
+      "whatIs": "¿Qué es la sección de actualización de LOCKED 2?",
+      "whatIsDescription": "La sección /update rastrea cada ciclo de parches de LOCKED 2, incluyendo ajustes de jugabilidad, retoques del sistema y comparaciones resumidas que explican qué cambió y por qué es importante.",
+      "why": "¿Por qué revisar cada actualización de LOCKED 2?",
+      "whySteps": {
+        "step1Title": "Detecta cambios de equilibrio",
+        "step1Description": "Mira qué estrategias ganaron valor y cuáles perdieron consistencia tras cada publicación de notas del parche.",
+        "step2Title": "Ajústate más rápido",
+        "step2Description": "Actualiza tus elecciones de armas y configuraciones de roles sin esperar a perder por prueba y error en partidas clasificatorias.",
+        "step3Title": "Sigue el meta a largo plazo",
+        "step3Description": "Usa el historial acumulado de actualizaciones de LOCKED 2 para entender hacia dónde se dirige el juego a través de múltiples versiones."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de actualizaciones de LOCKED 2"
+    },
+    "media": {
+      "title": "Multimedia de LOCKED 2",
+      "description": "Centro multimedia de LOCKED 2 para videos de jugabilidad, tráileres, logos y momentos destacados de montajes.",
+      "metaTitle": "Multimedia de LOCKED 2 - Jugabilidad, tráileres, logos y destacados",
+      "metaDescription": "Explora los recursos multimedia de LOCKED 2, incluyendo clips de jugabilidad, tráileres oficiales, referencias de logos y selecciones curadas de montajes.",
+      "categoryLabel": "MULTIMEDIA DE LOCKED 2",
+      "whatIs": "¿Qué es el centro multimedia de LOCKED 2?",
+      "whatIsDescription": "La sección /media recopila recursos visuales de LOCKED 2, incluyendo capturas de jugabilidad, referencias de tráileres, logos y videos de exhibición útiles para análisis o para compartir.",
+      "why": "¿Por qué usar los recursos multimedia de LOCKED 2?",
+      "whySteps": {
+        "step1Title": "Revisa la jugabilidad rápidamente",
+        "step1Description": "Mira clips clave para estudiar los tiempos de movimiento, elecciones de tiro y coordinación de equipo antes de los partidos.",
+        "step2Title": "Comparte recursos oficiales",
+        "step2Description": "Accede a referencias consistentes de logos y tráileres al publicar guías, actualizaciones o resúmenes de la comunidad.",
+        "step3Title": "Identifica ejemplos del meta",
+        "step3Description": "Usa las exhibiciones multimedia de LOCKED 2 para identificar patrones prácticos que están funcionando en el juego en vivo."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todo el contenido multimedia de LOCKED 2"
     }
   }
 }

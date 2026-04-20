@@ -1,12 +1,18 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-  "start_url": "/",
+  "name": "LOCKED 2 Wiki - Codes, Weapons & Builds",
+  "short_name": "LOCKED 2",
+  "description": "LOCKED 2 Wiki covers codes, weapons, traits, flows, builds, and dribbling guides for the Roblox Blue Lock-inspired soccer game, with fast updates.",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "scope": "/",
   "display": "standalone",
-  "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "lang": "en-US",
+  "dir": "ltr",
+  "theme_color": "#2c69f6",
+  "background_color": "#050814",
+  "categories": ["games", "sports", "entertainment"],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -21,8 +27,8 @@
       "purpose": "any maskable"
     },
     {
-      "src": "/favicon-16x16.png",
-      "sizes": "16x16",
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
       "type": "image/png"
     },
     {
@@ -31,8 +37,8 @@
       "type": "image/png"
     },
     {
-      "src": "/apple-touch-icon.png",
-      "sizes": "180x180",
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
       "type": "image/png"
     }
   ]

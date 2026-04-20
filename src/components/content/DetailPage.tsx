@@ -8,6 +8,7 @@ import { extractPlaceholderMetadata, getTailwindRgbString } from '@/lib/imageUti
 import { extractPrimaryKeyword } from '@/lib/utils'
 import { SidebarAd } from '@/components/ads/SidebarAd'
 import { AdBanner } from '@/components/ads'
+import { NAVIGATION_CONFIG } from '@/config/navigation'
 
 interface DetailPageProps {
 	frontmatter: ContentFrontmatter
@@ -22,15 +23,13 @@ export async function DetailPage({ frontmatter, content, contentType, language, 
 	// 服务端加载翻译
 	const t = await getTranslations()
 
-	// 内容类型翻译映射
-	const contentTypeLabels: Record<string, string> = {
-		guides: t('nav.guides'),
-		crafting: t('nav.crafting'),
-		items: t('nav.items'),
-		biomes: t('nav.biomes'),
-		building: t('nav.building'),
-		support: t('nav.support'),
-	}
+	// 从统一导航配置派生内容类型翻译映射，确保 key 与 navigation.ts 一致
+	const contentTypeLabels = Object.fromEntries(
+		NAVIGATION_CONFIG.filter((item) => item.isContentType).map((item) => [
+			item.path.slice(1),
+			t(`nav.${item.key}`),
+		]),
+	) as Record<string, string>
 
 	// 提取图片元数据
 	const imageMetadata = frontmatter.image ? extractPlaceholderMetadata(frontmatter.image) : null
@@ -140,7 +139,7 @@ export async function DetailPage({ frontmatter, content, contentType, language, 
 				{/* 文章底部广告区域 */}
 				<div className="border-t border-border pt-12 mt-12 space-y-8">
 					<div className="text-center text-sm text-muted-foreground mb-4">
-						Advertisement
+						{t('common.advertisement')}
 					</div>
 
 					{/* 广告 1: 728×90 横幅 */}

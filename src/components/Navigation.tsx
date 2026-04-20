@@ -103,6 +103,9 @@ export default function Navigation({ navPreviewData, wikiLinks }: NavigationProp
 		label: t(`nav.${item.key}`),
 		icon: item.icon
 	}))
+	const siteName = 'LOCKED 2 Wiki'
+	const mobileBrand = 'L2'
+	const logoLetter = siteName.trim().charAt(0).toUpperCase()
 
 	return (
 		<nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-lg border-b border-border">
@@ -114,10 +117,10 @@ export default function Navigation({ navPreviewData, wikiLinks }: NavigationProp
 						className="flex items-center space-x-2 hover:opacity-80 transition"
 					>
 						<div className="w-10 h-10 bg-[hsl(var(--nav-theme))] rounded-lg flex items-center justify-center font-bold text-xl">
-							L
+							{logoLetter}
 						</div>
-						<span className="font-bold text-lg hidden sm:inline">Lucid Blocks</span>
-						<span className="font-bold text-lg sm:hidden">LB</span>
+						<span className="font-bold text-lg hidden sm:inline">{siteName}</span>
+						<span className="font-bold text-lg sm:hidden">{mobileBrand}</span>
 					</Link>
 
 					{/* Desktop Navigation */}
@@ -154,7 +157,7 @@ export default function Navigation({ navPreviewData, wikiLinks }: NavigationProp
 												))}
 												{randomArticles.length === 0 && (
 													<div className="px-4 py-3 text-sm text-muted-foreground text-center">
-														No articles yet
+														{t('common.noArticlesYet')}
 													</div>
 												)}
 											</div>
@@ -228,7 +231,7 @@ export default function Navigation({ navPreviewData, wikiLinks }: NavigationProp
 								aria-expanded={wikiMenuOpen}
 								aria-haspopup="menu"
 							>
-								More Wikis
+								{t('common.moreWikis')}
 								<ChevronDown className={`w-3 h-3 ml-1 transition-transform ${wikiMenuOpen ? 'rotate-180' : ''}`} />
 							</Button>
 
@@ -302,7 +305,7 @@ export default function Navigation({ navPreviewData, wikiLinks }: NavigationProp
 												))}
 												{mobileRandomArticles.length === 0 && (
 													<div className="py-2 text-sm text-muted-foreground">
-														No articles yet
+														{t('common.noArticlesYet')}
 													</div>
 												)}
 												{articles.length > 1 && (
@@ -331,7 +334,7 @@ export default function Navigation({ navPreviewData, wikiLinks }: NavigationProp
 								>
 									<span className="flex items-center gap-3 font-medium">
 										<ExternalLink className="w-5 h-5" />
-										More Wikis
+										{t('common.moreWikis')}
 									</span>
 									<ChevronDown className={`w-4 h-4 transition-transform ${mobileWikiExpanded ? 'rotate-180' : ''}`} />
 								</button>

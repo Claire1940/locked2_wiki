@@ -1,0 +1,1404 @@
+{
+  "seo": {
+    "home": {
+      "title": "Wiki LOCKED 2 - Kode, Build, Senjata & Panduan",
+      "description": "Wiki LOCKED 2 melacak kode aktif, kontrol, tier list, build, panduan dribbling, dan log pembaruan untuk pemain Roblox LOCKED:2.",
+      "keywords": "LOCKED 2, LOCKED:2, Roblox, kode, build, senjata, trait, flow, dribbling",
+      "ogTitle": "Wiki LOCKED 2 - Kode, Build, Senjata & Panduan",
+      "ogDescription": "Wiki LOCKED 2 melacak kode aktif, kontrol, tier list, build, panduan dribbling, dan log pembaruan untuk pemain Roblox LOCKED:2.",
+      "twitterTitle": "Wiki LOCKED 2 - Kode, Build, Senjata & Panduan",
+      "twitterDescription": "Gunakan Wiki LOCKED 2 untuk kode harian, kontrol, build, dan pembaruan patch untuk Roblox LOCKED:2."
+    }
+  },
+  "nav": {
+    "codes": "Kode",
+    "guide": "Panduan",
+    "weapons": "Senjata",
+    "builds": "Build",
+    "links": "Tautan",
+    "release": "Rilis",
+    "update": "Pembaruan",
+    "media": "Media"
+  },
+  "common": {
+    "home": "Beranda",
+    "more": "Lainnya",
+    "playNow": "Mainkan di Roblox",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya",
+    "noArticlesYet": "Belum ada artikel",
+    "moreWikis": "Wiki Lainnya",
+    "advertisement": "Iklan",
+    "quickTips": "Tips Cepat",
+    "bestWith": "Terbaik Dengan",
+    "step": "Langkah"
+  },
+  "hero": {
+    "badge": "Sepak Bola Roblox Terinspirasi Blue Lock",
+    "title": "Wiki LOCKED 2",
+    "description": "Kode, senjata, build, panduan dribbling, dan bantuan pemula untuk LOCKED 2, pengalaman sepak bola kompetitif Roblox yang terinspirasi oleh Blue Lock.",
+    "getFreeCodesCTA": "Join Discord LOCKED 2",
+    "playOnSteamCTA": "Mainkan LOCKED:2 di Roblox",
+    "stats": {
+      "stat1": {
+        "value": "22.8K",
+        "label": "Pemain Online"
+      },
+      "stat2": {
+        "value": "98%",
+        "label": "Rating Persetujuan"
+      },
+      "stat3": {
+        "value": "164K",
+        "label": "Anggota Discord"
+      },
+      "stat4": {
+        "value": "262K",
+        "label": "Penayangan Trailer"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay Kompetitif LOCKED 2",
+    "description": "Kuasai kode, kontrol, kombinasi senjata dan trait, serta permainan peran taktis di Roblox LOCKED:2."
+  },
+  "tools": {
+    "title": "Modul LOCKED 2",
+    "titleHighlight": "Navigasi",
+    "subtitle": "Lompat ke setiap modul beranda LOCKED 2 dalam satu klik",
+    "cards": [
+      {
+        "icon": "BookOpen",
+        "title": "Kode LOCKED 2",
+        "description": "Kode aktif, hadiah, jalur penukaran, dan daftar kedaluwarsa"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Trello dan Discord LOCKED 2",
+        "description": "Trello resmi, Discord, dan hub pihak pertama"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Panduan Pemula LOCKED 2",
+        "description": "Pengaturan sesi pertama dan rencana peningkatan awal"
+      },
+      {
+        "icon": "Package",
+        "title": "Kontrol LOCKED 2",
+        "description": "Referensi keybind lapangan dan penjaga gawang"
+      },
+      {
+        "icon": "Home",
+        "title": "Tier List Senjata LOCKED 2",
+        "description": "Tier senjata April 2026 dengan kecocokan peran, tekanan cooldown, dan beban eksekusi"
+      },
+      {
+        "icon": "Eye",
+        "title": "Tier List Trait LOCKED 2",
+        "description": "Prioritas Simpan Inti hingga Reroll untuk nilai trait LOCKED 2 saat ini"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "Build Terbaik LOCKED 2",
+        "description": "Build LOCKED 2 yang dapat disalin untuk peran pemula, striker, winger, dan jangkar pertahanan"
+      },
+      {
+        "icon": "ArrowRight",
+        "title": "Panduan Dribbling LOCKED 2",
+        "description": "Tujuh langkah rute dribbling LOCKED 2 dari shift lock hingga aksi final"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Panduan Senjata LOCKED 2",
+        "description": "Efek senjata saat ini, tier kelangkaan, dan kecocokan peran untuk pertandingan LOCKED 2 yang sebenarnya"
+      },
+      {
+        "icon": "Star",
+        "title": "Panduan Trait LOCKED 2",
+        "description": "Kumpulan kelangkaan trait, drop rate, dan nilai peran praktis di LOCKED 2"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Panduan Flow LOCKED 2",
+        "description": "Roll statistik flow, logika aktivasi, dan varian visual yang digunakan di LOCKED 2"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Panduan Posisi LOCKED 2",
+        "description": "Tugas posisi, input tombol, dan arahan senjata khusus peran untuk LOCKED 2"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Panduan Tinggi Badan LOCKED 2",
+        "description": "Perbandingan pendek vs tinggi LOCKED 2 untuk kecepatan, stamina, kekuatan, dan kecocokan peran"
+      },
+      {
+        "icon": "Settings",
+        "title": "Panduan Penjaga Gawang LOCKED 2",
+        "description": "Kontrol penjaga gawang LOCKED 2, pilihan penyelamatan, dan prioritas senjata pertahanan"
+      },
+      {
+        "icon": "Clock",
+        "title": "Mode Turnamen LOCKED 2",
+        "description": "Jalur antrean turnamen LOCKED 2, persiapan acara, dan daftar periksa eksekusi pertandingan"
+      },
+      {
+        "icon": "Shield",
+        "title": "Log Pembaruan LOCKED 2",
+        "description": "Timeline patch LOCKED 2 dari pembangunan ulang peluncuran hingga saluran pembaruan langsung dan kode"
+      }
+    ]
+  },
+  "modules": {
+    "lucidBlocksBeginnerGuide": {
+      "title": "Kode LOCKED 2",
+      "displayType": "steps",
+      "intro": "Kode LOCKED 2 adalah peningkatan Yen tanpa biaya tercepat. Selesaikan tutorial terlebih dahulu, lalu tukarkan kode aktif dari Menu > Store > Codes sebelum rotasi menggantinya.",
+      "steps": [
+        {
+          "title": "TY5KLIKES - 15k Yen (Aktif)",
+          "description": "Salah satu kode LOCKED 2 bernilai tinggi saat ini dan suntikan Yen awal yang kuat untuk akun baru."
+        },
+        {
+          "title": "BUGFIX01 - 10k Yen (Aktif)",
+          "description": "Kode langsung yang terkait dengan gelombang perbaikan bug LOCKED 2 terbaru dan masih dapat ditukarkan dalam rotasi saat ini."
+        },
+        {
+          "title": "RELEASE - 10k Yen (Aktif)",
+          "description": "Kode LOCKED 2 era peluncuran yang tetap berguna untuk mata uang awal yang cepat."
+        },
+        {
+          "title": "Tipe Hadiah - Mata Uang Yen",
+          "description": "Yen digunakan untuk keputusan kustomisasi LOCKED 2 dan peningkatan progres yang berfokus pada statistik."
+        },
+        {
+          "title": "Jalur Penukaran - Menu > Store > Codes",
+          "description": "Selesaikan tutorial, tekan M atau buka menu, lalu masukkan setiap kode LOCKED 2 di panel Store."
+        },
+        {
+          "title": "Kumpulan Kedaluwarsa - CODE, 70KLIKES, MEDALXLOCKED",
+          "description": "Nama-nama ini sudah keluar dari rotasi dan hanya boleh dilacak sebagai referensi historis LOCKED 2."
+        }
+      ],
+      "quickTips": [
+        "Penukaran kode LOCKED 2 peka terhadap huruf besar-kecil, jadi tempelkan setiap kode persis seperti yang tertulis.",
+        "Tukarkan kode LOCKED 2 yang baru dirilis dengan cepat karena jendela rotasi bisa singkat.",
+        "Gunakan batch Yen pertama Anda untuk peningkatan yang sesuai dengan peran alih-alih reroll awal yang acak.",
+        "Periksa kembali bagian LOCKED 2 ini setelah setiap gelombang pembaruan untuk tambahan baru."
+      ]
+    },
+    "lucidBlocksApotheosisCrafting": {
+      "title": "Trello dan Discord LOCKED 2",
+      "displayType": "cards",
+      "intro": "Saluran resmi LOCKED 2 ini mencakup pencarian mekanik, pengumuman, dan akses pihak pertama langsung. Tetap sematkan saat Anda bermain dan memeriksa pembaruan.",
+      "cards": [
+        {
+          "name": "Papan Trello Resmi LOCKED 2",
+          "description": "Terbaik untuk pemeriksaan mekanik cepat, referensi keybind, dan tinjauan sistem selama pertandingan langsung."
+        },
+        {
+          "name": "Server Discord Resmi LOCKED 2",
+          "description": "Saluran utama untuk pengumuman, catatan pembaruan, aturan liga, dan diskusi komunitas yang aktif."
+        },
+        {
+          "name": "Halaman Game Roblox Resmi LOCKED:2",
+          "description": "Halaman peluncuran utama untuk masuk ke LOCKED:2, menyelesaikan alur tutorial, dan memeriksa pemberitahuan sisi game."
+        },
+        {
+          "name": "Roblox Group Resmi MOMENTXM",
+          "description": "Hub Roblox sisi pengembang yang melengkapi halaman game untuk navigasi resmi LOCKED 2."
+        }
+      ],
+      "milestones": [
+        "Trello untuk pencarian mekanik",
+        "Discord untuk pembaruan dan aturan",
+        "Roblox game page untuk peluncuran langsung",
+        "MOMENTXM group untuk pelacakan studio resmi"
+      ]
+    },
+    "lucidBlocksToolsAndWeapons": {
+      "title": "Panduan Pemula LOCKED 2",
+      "displayType": "itemCards",
+      "intro": "Pemain baru LOCKED 2 berkembang paling cepat dengan mempelajari dasar-dasar secara berurutan: penyelesaian tutorial, input inti, pengaturan stamina, lalu alur spesifik peran dan pilihan build.",
+      "items": [
+        {
+          "name": "Selesaikan tutorial LOCKED 2 terlebih dahulu",
+          "type": "Langkah 1",
+          "description": "Penyelesaian tutorial membuka loop menu termasuk akses Toko dan penukaran kode, jadi ini adalah gerbang progresi pertama Anda."
+        },
+        {
+          "name": "Gunakan PC untuk sesi serius pertama Anda",
+          "type": "Langkah 2",
+          "description": "Alur pembelajaran awal LOCKED 2 biasanya lebih lancar di PC, terutama selama tujuan tutorial awal."
+        },
+        {
+          "name": "Latih empat tindakan inti sejak dini",
+          "type": "Langkah 3",
+          "description": "Prioritaskan dribel LMB, tembakan RMB, sprint Shift, dan slide tackle Q untuk membangun ritme pertandingan pertama yang stabil."
+        },
+        {
+          "name": "Anggap stamina sebagai sumber daya taktis",
+          "type": "Langkah 4",
+          "description": "Gunakan V untuk memulihkan, lalu gunakan Shift hanya saat Anda menciptakan ruang, jalur tackle, atau jendela tembakan."
+        },
+        {
+          "name": "Pelajari Flow, Weapon, dan Trait secara berurutan",
+          "type": "Langkah 5",
+          "description": "Setelah pergerakan stabil, tambahkan timing G Flow, R Weapon, dan T Trait agar tindakan Anda tetap terencana di bawah tekanan."
+        },
+        {
+          "name": "Bangun build berdasarkan identitas peran dan gaya dribel",
+          "type": "Langkah 6",
+          "description": "LOCKED 2 menghargai kejelasan peran, jadi selaraskan build Anda dengan tanggung jawab jalur Anda sebelum mengejar kombo tingkat lanjut."
+        }
+      ]
+    },
+    "lucidBlocksStorageAndInventory": {
+      "title": "Kontrol LOCKED 2",
+      "displayType": "solutionCards",
+      "intro": "Klaster keybind LOCKED 2 ini menyatukan tindakan lapangan dan penjaga gawang di satu tempat sehingga Anda dapat melatih input tanpa kehilangan tempo pertandingan.",
+      "solutions": [
+        {
+          "name": "Serangan Inti Lapangan",
+          "role": "LMB | RMB | Shift | Q",
+          "description": "Dribel dengan LMB, tembak dengan RMB, sprint dengan Shift, dan gunakan slide tackle Q untuk perebutan penguasaan bola."
+        },
+        {
+          "name": "Tombol Utilitas dan Kemampuan Lapangan",
+          "role": "V | G | R | T | M | CTRL",
+          "description": "Kelola stamina dengan V, picu G Flow, R Weapon, T Trait, buka menu dengan M, dan aktifkan shift lock dengan CTRL."
+        },
+        {
+          "name": "Dasar Penyelamatan Penjaga Gawang",
+          "role": "F | C | Z",
+          "description": "Gunakan F blok berdiri ditambah lompatan C dan Z untuk melindungi kedua sisi gawang selama tekanan jarak dekat."
+        },
+        {
+          "name": "Kontrol Bola Penjaga Gawang",
+          "role": "E | Q | RMB",
+          "description": "Amankan dengan pengambilan E, redam dengan lompatan ke depan dan tangkapan Q, lalu mulai kembali permainan melalui timing tendangan RMB."
+        }
+      ],
+      "managementTips": [
+        "Latih kontrol lapangan dan penjaga gawang dalam sesi terpisah untuk menghindari kebingungan input dalam pertandingan langsung.",
+        "Siapkan Shift lock untuk kontrol kamera yang lebih stabil selama urutan pertahanan di bawah tekanan.",
+        "Gunakan pemulihan stamina secara proaktif agar timing sprint tetap tersedia untuk tindakan yang menentukan.",
+        "Ubah keybind hanya setelah merasa nyaman; pemetaan ulang yang terus-menerus memperlambat pertumbuhan memori otot LOCKED 2."
+      ]
+    },
+    "lucidBlocksQualiaAndBaseBuilding": {
+      "title": "Weapon Terbaik LOCKED 2 Saat Ini",
+      "displayType": "cards",
+      "intro": "Pembangunan ulang April 2026 mengubah weapon LOCKED 2 menjadi kemampuan aktif, jadi timing sama pentingnya dengan kelangkaan. Bacaan tier ini berfokus pada dampak saat ini, kesesuaian peran, dan seberapa mudah setiap weapon dikonversi menjadi nilai pertandingan.",
+      "cards": [
+        {
+          "name": "Tier S - Weapon Penentu Meta",
+          "description": "Primal Handstand, Serpent, dan Emperor. Pilihan ini membentuk penguasaan bola dan mengarahkan hasil penyelesaian di sebagian besar pertandingan peringkat."
+        },
+        {
+          "name": "Tier A - Kuat dan Stabil",
+          "description": "Crushing Header, Riptide Curve, dan Immense Speed. Weapon bernilai tinggi yang fleksibel dan bertahan di berbagai peran LOCKED 2."
+        },
+        {
+          "name": "Tier B - Bagus dengan Setup yang Tepat",
+          "description": "Power Shot, Super Fast Scissors, Black Hole Trap, dan Bear Claw. Bernilai baik saat timing, formasi tim, dan konteks peran Anda sudah rapi."
+        },
+        {
+          "name": "Tier C - Niche atau Berat di Eksekusi",
+          "description": "Direct Shot, Bunny, Stealthy Steps, dan Dragon Header. Opsi yang dapat dimainkan yang membutuhkan timing lebih ketat atau skrip pertandingan yang lebih sempit."
+        },
+        {
+          "name": "Tier D - Pilihan Berdampak Rendah",
+          "description": "Stylish Reach, Monster Lift, dan Big Bang Drive. Mereka bisa bekerja dalam uji coba, tetapi memberikan dampak pertandingan yang lebih rendah daripada tier yang lebih tinggi."
+        }
+      ],
+      "highlights": [
+        "Bacaan cepat: Primal Handstand memimpin pertahanan, Serpent dan Emperor memimpin penyelesaian langsung, dan Riptide Curve tetap menjadi opsi serbaguna yang paling aman.",
+        "Gunakan tier S dan A secara default saat mendaki peringkat kecuali rencana tim LOCKED 2 Anda membutuhkan interaksi niche.",
+        "Gunakan tier B dan C hanya jika build Anda sudah mendukung jendela timing dan rute tindak lanjut mereka.",
+        "Periksa kembali modul tier weapon LOCKED 2 ini setelah setiap pembaruan keseimbangan atau penyesuaian cooldown."
+      ]
+    },
+    "lucidBlocksWorldRegions": {
+      "title": "Trait Terbaik LOCKED 2 untuk Dipertahankan",
+      "displayType": "regionCards",
+      "intro": "Trait LOCKED 2 terbaik menyelesaikan masalah peran yang nyata: pergerakan, akses flow, penyelesaian di kotak penalti, pencurian bola, dan kontrol penjaga gawang. Pertahankan trait yang memberikan nilai pertandingan langsung daripada peningkatan statistik kecil.",
+      "regions": [
+        {
+          "name": "Trait Inti untuk Dipertahankan",
+          "type": "Dasar Build",
+          "description": "Athlete, Puppeteer, Egoist, dan Meta-Vision. Prioritas utama untuk dipertahankan dengan dampak langsung di sebagian besar komposisi LOCKED 2."
+        },
+        {
+          "name": "Trait Kuat untuk Dipertahankan",
+          "type": "Nilai Tinggi",
+          "description": "Golden Zone, Long Strides, Quick Draw, Calculate, dan Destruction. Peningkatan yang kuat saat selaras dengan weapon dan jalur peran Anda."
+        },
+        {
+          "name": "Trait Pilihan Peran",
+          "type": "Kondisional",
+          "description": "Bunnys, Claw, Tank, Surf, Consistent, dan Ripper. Kuat di jalur tertentu seperti penjaga gawang, bek, atau permainan pancingan dribel."
+        },
+        {
+          "name": "Trait Farm atau Spesialis",
+          "type": "Sempit",
+          "description": "No Look, Diver, Ambidextrous, Fortune, Tireless, dan Powerhouse. Pilihan yang dapat dimainkan dengan nilai yang lebih sempit daripada trait umum teratas."
+        },
+        {
+          "name": "Trait Reroll",
+          "type": "Jangan Dipertahankan",
+          "description": "Heavy, Dwarf, Weak, Lazy, dan Tired. Trait LOCKED 2 ini mengurangi nilai pertandingan praktis dan harus segera diganti."
+        }
+      ]
+    },
+    "lucidBlocksCreaturesAndEnemies": {
+      "title": "Build Peran LOCKED 2 yang Bisa Disalin",
+      "displayType": "cardGrid",
+      "intro": "Build LOCKED 2 yang kuat bukan sekadar roll langka. Mulailah dari satu tugas peran yang jelas, lalu cocokkan rencana weapon, prioritas trait, bias tinggi badan, dan timing flow menjadi kondisi kemenangan yang dapat diulang.",
+      "creatures": [
+        {
+          "name": "Build Serbaguna Pemula LOCKED 2",
+          "role": "Gelandang / Winger Sekunder",
+          "description": "Prioritas weapon: Riptide Curve lalu Immense Speed. Inti trait: Athlete, Long Strides, Puppeteer. Jaga sudut tetap sederhana, sirkulasi dengan bersih, dan serang half-space dengan kontrol."
+        },
+        {
+          "name": "Build Striker Finisher LOCKED 2",
+          "role": "Striker Utama",
+          "description": "Prioritas weapon: Emperor lalu Serpent. Inti trait: Quick Draw, Egoist, Golden Zone, Athlete. Simpan Flow untuk duel bek terakhir, rebound, dan masuk ke kotak penalti."
+        },
+        {
+          "name": "Build Winger Kreator LOCKED 2",
+          "role": "Winger / Gelandang Serang",
+          "description": "Prioritas weapon: Riptide Curve, Super Fast Scissors, lalu Immense Speed. Inti trait: Long Strides, Bunnys, Calculate, Puppeteer. Serang ruang lebar untuk pemisahan dan nilai pengiriman bola."
+        },
+        {
+          "name": "Build Jangkar Pertahanan LOCKED 2",
+          "role": "Bek / Penjaga Gawang",
+          "description": "Prioritas weapon: Primal Handstand, Bear Claw, lalu Stealthy Steps. Inti trait: Meta-Vision, Tank, Claw, Surf. Tahan Flow untuk pemulihan darurat, pertahanan garis gawang, dan reset duel pertama."
+        }
+      ]
+    },
+    "lucidBlocksMobilityGear": {
+      "title": "Dribel LOCKED 2 Tanpa Kehilangan Bola",
+      "displayType": "itemCards",
+      "intro": "Dribel LOCKED 2 yang baik mengutamakan kontrol kamera, penempatan posisi, dan disiplin stamina terlebih dahulu. Klip keren menyusul; sentuhan pertama yang bersih dan sudut yang tepat memenangkan lebih banyak penguasaan bola.",
+      "items": [
+        {
+          "name": "Aktifkan Shift Lock Terlebih Dahulu",
+          "type": "Langkah 1",
+          "description": "LOCKED 2 menggunakan Ctrl Kiri untuk Shift Lock secara default. Ubah di Pengaturan dan Keybinds sebelum Anda memulai latihan dribel yang serius."
+        },
+        {
+          "name": "Bangun Rantai Bola Dasar Anda",
+          "type": "Langkah 2",
+          "description": "Rantai dasar Anda sederhana: LMB menjaga dribel tetap aktif, Shift mengontrol kecepatan, RMB adalah tembakan Anda, dan RMB di udara adalah sentuhan sundulan Anda."
+        },
+        {
+          "name": "Dribel ke Ruang Kosong, Bukan ke Bek",
+          "type": "Langkah 3",
+          "description": "Ambil sentuhan berikutnya menjauh dari tekanan, bukan langsung ke arah lawan. Memberi jarak memaksa bek untuk berbalik sebelum menantang."
+        },
+        {
+          "name": "Gunakan Kontrol Darat Sebelum Trik Udara",
+          "type": "Langkah 4",
+          "description": "Dribel darat adalah langkah pertama yang paling aman. Lakukan trik udara hanya setelah bola melambung, pantulan, atau perebutan di mana sentuhan ekstra mengubah sudut."
+        },
+        {
+          "name": "Lindungi Stamina Anda Sebelum Membawa Bola Jauh",
+          "type": "Langkah 5",
+          "description": "Jangan memulai dribel panjang dengan bar stamina yang terkuras. Atur ulang, isi ulang, lalu lakukan akselerasi agar Anda masih memiliki langkah terakhir atau penyelesaian."
+        },
+        {
+          "name": "Gunakan Flow Setelah Anda Memenangkan Duel Pertama",
+          "type": "Langkah 6",
+          "description": "Flow paling kuat saat memperpanjang keunggulan yang sudah Anda buat. Kalahkan penjaga pertama dulu, lalu ubah menjadi tembakan atau operan terakhir."
+        },
+        {
+          "name": "Akhiri Setiap Giringan dengan Tujuan",
+          "type": "Langkah 7",
+          "description": "Setiap giringan harus diakhiri dengan salah satu dari tiga hasil: tembakan, operan, atau sentuhan reset yang aman. Putar kembali penguasaan bola jika tidak ada celah."
+        }
+      ],
+      "unlockMilestones": [
+        "Aktifkan Shift Lock sebelum duel pertama Anda dan jaga orientasi kamera tetap stabil.",
+        "Kalahkan bek pertama dengan penempatan posisi sebelum menambahkan lapisan dribel ekstra.",
+        "Selesaikan giringan dengan tembakan, operan, atau reset aman alih-alih duel yang dipaksakan.",
+        "Gunakan LOCKED 2 Flow hanya setelah menciptakan keunggulan, bukan dari sentuhan saat diam."
+      ]
+    },
+    "lucidBlocksFarmingAndGrowth": {
+      "title": "Panduan Senjata LOCKED 2",
+      "displayType": "weaponCards",
+      "subtitle": "Pembaruan senjata LOCKED 2 April 2026 mengubah senjata menjadi kemampuan aktif, sehingga waktu penggunaan sekarang sama pentingnya dengan kelangkaan.",
+      "intro": "Gunakan panduan ini jika Anda menginginkan lebih dari sekadar daftar tingkatan mentah. Setiap kartu memberi tahu Anda apa fungsi sebenarnya dari senjata tersebut, di mana ia unggul, dan peran mana yang mendapatkan nilai maksimal darinya.",
+      "items": [
+        {
+          "name": "Primal Handstand",
+          "rarity": "Epic",
+          "tier": "S",
+          "summary": "Senjata dengan hitbox besar yang saat ini merupakan salah satu alat pertahanan terkuat di lapangan.",
+          "bestFor": [
+            "Kiper",
+            "Bek"
+          ],
+          "playstyle": "Kontrol kotak penalti, penyelamatan darurat, dan perlindungan orang terakhir"
+        },
+        {
+          "name": "Serpent",
+          "rarity": "Unique",
+          "tier": "S",
+          "summary": "Tembakan jarak jauh yang diisi daya yang juga dapat digunakan di udara, memberikan tekanan skor elit dari berbagai sudut.",
+          "bestFor": [
+            "Penyerang",
+            "Pencetak Gol Sekunder"
+          ],
+          "playstyle": "Penyelesaian dengan potensi tinggi dan ancaman jarak jauh"
+        },
+        {
+          "name": "Emperor",
+          "rarity": "Unique",
+          "tier": "S",
+          "summary": "Memberikan pengisian tembakan instan dan merupakan salah satu senjata penyelesaian paling bersih dalam meta saat ini.",
+          "bestFor": [
+            "Penyerang",
+            "Penyerang Sayap Dalam"
+          ],
+          "playstyle": "Penyelesaian dengan pelepasan cepat di dalam atau di sekitar kotak penalti"
+        },
+        {
+          "name": "Crushing Header",
+          "rarity": "Epic",
+          "tier": "A",
+          "summary": "Serangan udara berdampak tinggi yang membuat penyelesaian di kotak penalti yang ramai menjadi jauh lebih mudah.",
+          "bestFor": [
+            "Penyerang",
+            "Penyerang Target"
+          ],
+          "playstyle": "Tekanan udara dan gol dari bola kedua"
+        },
+        {
+          "name": "Riptide Curve",
+          "rarity": "Legendary",
+          "tier": "A",
+          "summary": "Opsi yang sangat aman dan serbaguna untuk tembakan melengkung dan operan pendukung.",
+          "bestFor": [
+            "Sayap",
+            "Gelandang",
+            "Penyerang Pendukung"
+          ],
+          "playstyle": "Pembuatan permainan kreatif dan umpan melengkung"
+        },
+        {
+          "name": "Immense Speed",
+          "rarity": "Legendary",
+          "tier": "A",
+          "summary": "Membangun kecepatan seiring waktu hingga Anda menjadi sangat cepat, yang sangat kuat pada karakter yang lebih pendek.",
+          "bestFor": [
+            "Sayap",
+            "Bek Sayap",
+            "Pelari Transisi"
+          ],
+          "playstyle": "Pemisahan, serangan balik, dan lari pemulihan"
+        },
+        {
+          "name": "Power Shot",
+          "rarity": "Rare",
+          "tier": "B",
+          "summary": "Tembakan bermuatan yang kekuatannya berskala baik dengan build Anda, menjadikannya lebih kuat dalam loadout yang sudah berkembang.",
+          "bestFor": [
+            "Penyerang",
+            "Gelandang Serang"
+          ],
+          "playstyle": "Penyelesaian bermuatan dan serangan berskala statistik"
+        },
+        {
+          "name": "Super Fast Scissors",
+          "rarity": "Rare",
+          "tier": "B",
+          "summary": "Senjata berat mobilitas dengan i-frame bawaan yang membantu memperpanjang kombo dan melarikan diri dari tekanan.",
+          "bestFor": [
+            "Sayap",
+            "Pendribel",
+            "Pembawa Bola"
+          ],
+          "playstyle": "Reposisi cepat dan perpanjangan kombo"
+        },
+        {
+          "name": "Black Hole Trap",
+          "rarity": "Epic",
+          "tier": "B",
+          "summary": "Senjata berbasis waktu yang dikerjakan ulang yang tetap efektif jika Anda menguasai jendela aktivasi.",
+          "bestFor": [
+            "Gelandang",
+            "Penyerang Fokus Kontrol"
+          ],
+          "playstyle": "Waktu jebakan dan permainan penguasaan bola yang terkontrol"
+        },
+        {
+          "name": "Bear Claw",
+          "rarity": "Common",
+          "tier": "B",
+          "summary": "Menjamin tangkapan saat aktivasi dan memiliki cooldown rendah yang memaafkan, menjadikannya salah satu alat pertahanan paling andal.",
+          "bestFor": [
+            "Bek",
+            "Kiper"
+          ],
+          "playstyle": "Perebutan bola yang sederhana dan dapat diulang"
+        },
+        {
+          "name": "Direct Shot",
+          "rarity": "Common",
+          "tier": "C",
+          "summary": "Tembakan berbasis waktu yang menjadi sangat cepat saat dilepaskan pada momen yang tepat.",
+          "bestFor": [
+            "Penyerang",
+            "Pencetak Gol Ulung"
+          ],
+          "playstyle": "Penyelesaian sentuhan pertama yang bersih dan uji keterampilan waktu"
+        },
+        {
+          "name": "Stealthy Steps",
+          "rarity": "Rare",
+          "tier": "C",
+          "summary": "Memberikan ledakan kecepatan dan tembus pandang parsial, dengan nilai lebih pada reposisi daripada serangan murni.",
+          "bestFor": [
+            "Bek",
+            "Pelari Lebar"
+          ],
+          "playstyle": "Gerakan pemulihan dan reposisi diam-diam"
+        },
+        {
+          "name": "Bunny",
+          "rarity": "Rare",
+          "tier": "C",
+          "summary": "Meningkatkan lompatan Anda cukup untuk membantu build yang lebih pendek bersaing lebih baik di udara.",
+          "bestFor": [
+            "Sayap",
+            "Bek",
+            "Petarung Udara"
+          ],
+          "playstyle": "Lompatan utilitas dan sundulan yang diperebutkan"
+        },
+        {
+          "name": "Dragon Header",
+          "rarity": "Legendary",
+          "tier": "C",
+          "summary": "Penyelesaian gaya sundulan yang cepat dan kuat yang menghukum jika waktu Anda tidak tepat.",
+          "bestFor": [
+            "Penyerang",
+            "Pelari Tiang Jauh"
+          ],
+          "playstyle": "Penyelesaian udara presisi"
+        },
+        {
+          "name": "Stylish Reach",
+          "rarity": "Common",
+          "tier": "D",
+          "summary": "Memperbesar hitbox Anda untuk sementara untuk intersepsi, tetapi jarang mengubah jalannya pertandingan sendirian.",
+          "bestFor": [
+            "Bek",
+            "Pencegat Jalur Operan"
+          ],
+          "playstyle": "Ekstensi jangkauan sederhana"
+        },
+        {
+          "name": "Monster Lift",
+          "rarity": "Epic",
+          "tier": "D",
+          "summary": "Mengangkat bola saat bergerak dan bekerja paling baik saat dirantai dengan kemampuan lain daripada berdiri sendiri.",
+          "bestFor": [
+            "Pendribel Kreatif",
+            "Build Kombo"
+          ],
+          "playstyle": "Persiapan, tipuan, dan rantai kemampuan lanjutan"
+        },
+        {
+          "name": "Big Bang Drive",
+          "rarity": "Unique",
+          "tier": "D",
+          "summary": "Menawarkan kontrol udara dan potensi tembakan tertunda, tetapi animasi yang lambat membuatnya mudah dibaca.",
+          "bestFor": [
+            "Build Gaya Bebas",
+            "Permainan Bergaya"
+          ],
+          "playstyle": "Pelepasan tertunda dan persiapan yang mencolok"
+        }
+      ]
+    },
+    "lucidBlocksBestEarlyUnlocks": {
+      "title": "Panduan Trait LOCKED 2",
+      "displayType": "traitAccordion",
+      "subtitle": "Trait LOCKED 2 menambahkan lapisan build ekstra, mulai dari pergeseran stat kecil hingga pasif langka yang mengubah jalannya pertandingan.",
+      "intro": "Modul ini dibuat untuk pemain yang ingin memahami kumpulan trait daripada sekadar menghafal nama. Buka bagian untuk melihat tingkat drop, efek utama di dalam kelangkaan tersebut, dan jenis gaya bermain yang paling diuntungkan dari roll tersebut.",
+      "items": [
+        {
+          "title": "Trait Common",
+          "summary": "Kumpulan roll yang paling umum, sebagian besar terdiri dari perubahan stat kecil dan hasil reroll awal.",
+          "content": [
+            {
+              "label": "Tingkat drop",
+              "value": "55%"
+            },
+            {
+              "label": "Trait yang termasuk",
+              "value": "Dwarf, Lazy, Tired, Weak, None"
+            },
+            {
+              "label": "Apa yang mereka ubah",
+              "value": "Ukuran hitbox, kecepatan, stamina, kekuatan tembakan, atau tidak ada bonus sama sekali."
+            },
+            {
+              "label": "Bacaan cepat",
+              "value": "Dwarf memperkecil hitbox Anda; Lazy menurunkan kecepatan; Tired menurunkan stamina; Weak menurunkan kekuatan tembakan."
+            }
+          ]
+        },
+        {
+          "title": "Trait Rare",
+          "summary": "Tingkat utilitas harian untuk penyetelan peran dan pembentukan stat yang andal.",
+          "content": [
+            {
+              "label": "Tingkat drop",
+              "value": "30%"
+            },
+            {
+              "label": "Trait yang termasuk",
+              "value": "Long Strides, Heavy, Powerhouse, Tank, Surf, Clamps"
+            },
+            {
+              "label": "Apa yang mereka ubah",
+              "value": "Kecepatan sprint, kekuatan tembakan, ukuran hitbox, jarak slide tackle, dan jangkauan M2."
+            },
+            {
+              "label": "Penggunaan terbaik",
+              "value": "Long Strides membantu kecepatan, Surf membantu jangkauan pertahanan, Clamps membantu memenangkan bola, dan Powerhouse atau Heavy menambah ancaman tembakan."
+            }
+          ]
+        },
+        {
+          "title": "Trait Exotic",
+          "summary": "Kumpulan yang jauh lebih kuat dengan bantuan cooldown, pergerakan spesialis, dan utilitas khusus peran.",
+          "content": [
+            {
+              "label": "Tingkat drop",
+              "value": "10%"
+            },
+            {
+              "label": "Trait yang termasuk",
+              "value": "Unbreakable, Fortune, Ripper, Bunnys, Quick Draw, Consistent, No Look, Athlete, Tireless, Claw, Diver"
+            },
+            {
+              "label": "Apa yang mereka ubah",
+              "value": "Keamanan pergelangan kaki, uang ekstra dalam game otomatis, ragdoll lebih lama, lompatan lebih tinggi, pengisian tembakan 50% lebih cepat, pengurangan cooldown 15%, peningkatan tembakan tanpa shiftlock, peningkatan multi-stat, lebih banyak stamina, peluang mencuri saat memblokir, dan penyelaman kiper lebih cepat."
+            },
+            {
+              "label": "Penggunaan terbaik",
+              "value": "Quick Draw dan Consistent cocok untuk build kemampuan aktif, Athlete adalah all-rounder yang luas, Claw menghargai pembacaan pertahanan, dan Diver adalah trait murni untuk kiper."
+            }
+          ]
+        },
+        {
+          "title": "Trait Legendary",
+          "summary": "Pasif dengan drop rendah yang dapat membentuk kembali cara seluruh build Anda bermain di sekitar ego, tembakan, hitbox, atau dukungan tim.",
+          "content": [
+            {
+              "label": "Tingkat drop",
+              "value": "5%"
+            },
+            {
+              "label": "Trait yang termasuk",
+              "value": "Golden Zone, Egoist, Meta-Vision, Ambidextrous, Puppeteer"
+            },
+            {
+              "label": "Apa yang mereka ubah",
+              "value": "Golden Zone memperkuat tembakan dari zonanya, Egoist memberikan 4x Ego, Meta-Vision meningkatkan hitbox dan melindungi dari patah pergelangan kaki saat aktif, Ambidextrous dapat memperkuat tembakan dari sisi kaki yang bersinar, dan Puppeteer mengisi Flow untuk lima rekan tim terdekat."
+            },
+            {
+              "label": "Penggunaan terbaik",
+              "value": "Golden Zone dan Ambidextrous menguntungkan finisher, Meta-Vision membantu kontrol bola dan cakupan area, dan Puppeteer adalah roll yang paling berorientasi pada tim dalam kumpulan ini."
+            }
+          ]
+        },
+        {
+          "title": "Trait Exclusive",
+          "summary": "Tingkat trait terlangka, dibangun di sekitar kemampuan khas yang terkait dengan gaya senjata tertentu.",
+          "content": [
+            {
+              "label": "Tingkat drop",
+              "value": "0.5%"
+            },
+            {
+              "label": "Trait yang termasuk",
+              "value": "Destruction, Dragon, Twin Guns, Calculate, Revolver"
+            },
+            {
+              "label": "Apa yang mereka ubah",
+              "value": "Destruction memperkuat Riptide berikutnya, Dragon menambahkan aktivasi sundulan yang kuat, Twin Guns menciptakan urutan Direct Shot tipuan-dan-nyata, Calculate memberikan buff kecepatan melalui operan Riptide, dan Revolver membuat Anda melakukan dash ke arah kamera."
+            },
+            {
+              "label": "Penggunaan terbaik",
+              "value": "Roll ini paling kuat ketika build Anda sudah condong ke arah Riptide, Direct Shot, sundulan, atau pola permainan trap-and-burst."
+            }
+          ]
+        }
+      ]
+    },
+    "lucidBlocksAchievementTracker": {
+      "title": "Panduan Flow LOCKED 2",
+      "displayType": "flowCards",
+      "subtitle": "Flow adalah sistem kekuatan inti LOCKED 2 yang menggabungkan status pertandingan aktif, bonus stat yang di-roll, dan varian visual.",
+      "intro": "Buka modul ini saat Anda ingin memahami kedua sisi Flow: roll stat yang sebenarnya dan identitas visual yang melekat padanya. Di LOCKED 2 saat ini, Yen dapat digunakan untuk membuka kunci terkait Flow, dan status Flow aktif masih merupakan salah satu momen perubahan terbesar dalam pertandingan.",
+      "items": [
+        {
+          "name": "Dasar-Dasar Flow State",
+          "type": "Sistem Inti",
+          "summary": "Flow adalah status aktif sementara yang digunakan selama pertandingan.",
+          "details": "Aktifkan dengan G. Setiap roll Flow memberikan bonus antara 5% dan 15% dalam satu kategori: Strength, Speed, Stamina, Cooldown, atau Hitbox.",
+          "bestWith": "Peran apa pun, karena nilainya berasal dari kategori stat yang Anda dapatkan."
+        },
+        {
+          "name": "Speed Flow State",
+          "type": "Kategori Boost",
+          "summary": "Roll speed meningkatkan seberapa cepat pemain Anda bergerak selama jendela Flow aktif.",
+          "details": "Boost di-roll di dalam rentang 5% hingga 15%.",
+          "bestWith": "Winger, bek pemulihan, dan build apa pun yang menang melalui pemisahan jarak."
+        },
+        {
+          "name": "Strength Flow State",
+          "type": "Kategori Boost",
+          "summary": "Roll strength meningkatkan kekuatan fisik dari jendela Flow Anda.",
+          "details": "Boost di-roll di dalam rentang 5% hingga 15%.",
+          "bestWith": "Finisher dan build yang berfokus pada kekuatan."
+        },
+        {
+          "name": "Stamina Flow State",
+          "type": "Kategori Boost",
+          "summary": "Roll stamina membantu Anda tetap efektif lebih lama saat Flow aktif.",
+          "details": "Boost di-roll di dalam rentang 5% hingga 15%.",
+          "bestWith": "Gelandang, pelari sayap, dan peran dengan pergerakan tinggi."
+        },
+        {
+          "name": "Cooldown Flow State",
+          "type": "Kategori Boost",
+          "summary": "Roll cooldown meningkatkan seberapa cepat build Anda kembali ke alat-alatnya.",
+          "details": "Boost di-roll di dalam rentang 5% hingga 15%.",
+          "bestWith": "Pemain dengan kemampuan aktif yang menginginkan jendela pengulangan yang lebih bersih."
+        },
+        {
+          "name": "Hitbox Flow State",
+          "type": "Kategori Boost",
+          "summary": "Roll hitbox memberi Anda kehadiran aktif yang lebih besar selama jendela Flow.",
+          "details": "Boost di-roll di dalam rentang 5% hingga 15%.",
+          "bestWith": "Bek, kiper, dan build yang berat pada intersepsi."
+        },
+        {
+          "name": "Puzzle",
+          "type": "Varian Flow",
+          "summary": "Kepingan puzzle melayang di sekitar pemain Anda saat Flow aktif.",
+          "details": "Terinspirasi oleh Isagi Yoichi.",
+          "bestWith": "Pemain yang menginginkan visual gaya playmaker yang bersih."
+        },
+        {
+          "name": "Lightning",
+          "type": "Varian Flow",
+          "summary": "Petir hijau-dan-hitam menyambar di sekitar pemain selama Flow.",
+          "details": "Terinspirasi oleh Barou Shouei.",
+          "bestWith": "Build agresif dan langsung yang menginginkan visual berenergi tinggi."
+        },
+        {
+          "name": "Demon Wings",
+          "type": "Varian Flow",
+          "summary": "Sayap iblis kerangka muncul di punggung Anda dengan aura merah-merah muda.",
+          "details": "Terinspirasi oleh Shidou Ryusei.",
+          "bestWith": "Build udara atau chaos-finishing yang menyukai profil visual yang mencolok."
+        },
+        {
+          "name": "Genius",
+          "type": "Varian Flow",
+          "summary": "Angka dan jejak putih mengelilingi pemain Anda saat Flow aktif.",
+          "details": "Terinspirasi oleh Sae Itoshi.",
+          "bestWith": "Estetika playmaker yang berat pada kontrol."
+        },
+        {
+          "name": "Vines",
+          "type": "Varian Flow",
+          "summary": "Tanaman merambat dan jejak seperti kelopak mawar melilit karakter selama Flow.",
+          "details": "Terinspirasi oleh Michael Kaiser.",
+          "bestWith": "Build penyerang kreatif dan penyerang yang penuh gaya."
+        },
+        {
+          "name": "Monster",
+          "type": "Varian Flow",
+          "summary": "Mata yang bersinar dan jejak berapi memberikan tampilan Flow yang lebih liar.",
+          "details": "Terinspirasi oleh Meguru Bachira.",
+          "bestWith": "Pemain yang mengutamakan dribel dan kreator yang tidak biasa."
+        },
+        {
+          "name": "Snake",
+          "type": "Varian Flow",
+          "summary": "Dua aura berwarna berbeda terbagi di seluruh model karakter.",
+          "details": "Terinspirasi oleh Oliver Aiku.",
+          "bestWith": "Pemain yang berpikiran defensif yang menginginkan visual yang menonjol."
+        },
+        {
+          "name": "Wild Card",
+          "type": "Varian Flow",
+          "summary": "Api dan empat kartu as melayang di sekitar pemain Anda.",
+          "details": "Terinspirasi oleh Rensuke Kunigami.",
+          "bestWith": "Build finisher yang menginginkan tampilan Flow yang dramatis."
+        }
+      ]
+    },
+    "lucidBlocksSingleplayerAndPlatformFAQ": {
+      "title": "Panduan Posisi LOCKED 2",
+      "displayType": "positionAccordion",
+      "subtitle": "Panduan posisi LOCKED 2 ini berfokus pada tanggung jawab peran, arah senjata yang berguna, dan input yang paling sering Anda andalkan.",
+      "intro": "Panduan posisi yang baik harus memberi tahu pemain cara berperilaku di lapangan, bukan hanya tempat berdiri. Gunakan bagian ini untuk mencocokkan peran Anda dengan tanggung jawab, kebiasaan tombol, dan arah senjata yang tepat.",
+      "items": [
+        {
+          "title": "Striker",
+          "summary": "Tugas Anda adalah menyelesaikan pergerakan dengan cepat dan mengubah umpan bagus menjadi gol.",
+          "content": [
+            {
+              "label": "Tugas utama",
+              "value": "Serang kotak penalti, atur waktu lari terakhir, dan lepaskan tembakan sebelum pertahanan lawan kembali ke posisi semula."
+            },
+            {
+              "label": "Arah senjata",
+              "value": "Emperor untuk penyelesaian cepat, Serpent untuk tekanan jarak jauh, Crushing Header untuk umpan udara, dan Direct Shot untuk pelepasan berdasarkan waktu."
+            },
+            {
+              "label": "Input utama",
+              "value": "RMB untuk menembak atau mengisi daya, RMB di udara untuk sentuhan sundulan, R untuk senjata Anda, dan G untuk mengaktifkan Flow."
+            },
+            {
+              "label": "Apa yang biasanya salah",
+              "value": "Melakukan satu sentuhan ekstra di tengah kerumunan dan membiarkan peluang bersih berubah menjadi blokir."
+            }
+          ]
+        },
+        {
+          "title": "Winger",
+          "summary": "Anda menciptakan lebar lapangan, membawa bola ke sudut yang lebih baik, dan memaksa lini belakang lawan bergerak.",
+          "content": [
+            {
+              "label": "Tugas utama",
+              "value": "Kalahkan penjaga pertama, lebarkan lapangan, dan ubah penguasaan bola di sisi lapangan menjadi umpan silang, cut-in, atau pemulihan."
+            },
+            {
+              "label": "Arah senjata",
+              "value": "Immense Speed untuk membawa bola jarak jauh, Super Fast Scissors untuk pergerakan dan i-frames, Riptide Curve untuk pengiriman bola, dan Bunny untuk kegunaan udara tambahan."
+            },
+            {
+              "label": "Input utama",
+              "value": "LMB untuk terus menggiring bola, Shift untuk berlari, RMB untuk menembak atau mengumpan silang dari sudut Anda, dan R atau G saat Anda menemukan celah."
+            },
+            {
+              "label": "Apa yang biasanya salah",
+              "value": "Terlalu cepat bergerak ke tengah dan mematikan lebar lapangan yang dibutuhkan tim Anda."
+            }
+          ]
+        },
+        {
+          "title": "Gelandang",
+          "summary": "Seorang gelandang memulai urutan serangan dan membantu menyeimbangkan serangan dengan pertahanan.",
+          "content": [
+            {
+              "label": "Tugas utama",
+              "value": "Inisiasi permainan, hubungkan fase-fase, dan jaga stabilitas tim antara serangan dan pertahanan."
+            },
+            {
+              "label": "Arah senjata",
+              "value": "Riptide Curve untuk umpan pendukung, Power Shot untuk ancaman tembakan terlambat, Black Hole Trap untuk kontrol, dan Super Fast Scissors untuk rute melarikan diri."
+            },
+            {
+              "label": "Input utama",
+              "value": "LMB untuk membawa bola, RMB untuk distribusi atau tembakan, Q untuk tantangan defensif, dan G atau R saat Anda perlu mengubah momentum."
+            },
+            {
+              "label": "Apa yang biasanya salah",
+              "value": "Menahan bola terlalu lama dan membiarkan sisa formasi terbuka."
+            }
+          ]
+        },
+        {
+          "title": "Bek",
+          "summary": "Seorang bek menahan permainan, mengulur waktu bagi rekan setim untuk pulih, dan mencuri bola saat momennya tepat.",
+          "content": [
+            {
+              "label": "Tugas utama",
+              "value": "Lindungi jalur berbahaya, tunda serangan, dan rebut bola tanpa membuka seluruh lini belakang."
+            },
+            {
+              "label": "Arah senjata",
+              "value": "Primal Handstand untuk jangkauan pertahanan yang luas, Bear Claw untuk tangkapan bersih, Stealthy Steps untuk pergerakan pemulihan, dan Stylish Reach untuk cakupan intersepsi tambahan."
+            },
+            {
+              "label": "Input utama",
+              "value": "Q untuk slide tackle, LMB dan pergerakan untuk posisi tubuh, R untuk mengaktifkan senjata Anda, dan G saat jendela perubahan defensif muncul."
+            },
+            {
+              "label": "Apa yang biasanya salah",
+              "value": "Melakukan diving terlalu dini alih-alih memaksa penyerang ke sudut yang lebih buruk."
+            }
+          ]
+        },
+        {
+          "title": "Kiper",
+          "summary": "Anda adalah pemberhentian terakhir dan cara tercepat untuk mengatur ulang tim Anda setelah penyelamatan.",
+          "content": [
+            {
+              "label": "Tugas utama",
+              "value": "Baca tembakan, lindungi tiang dekat, kumpulkan bola liar, dan mulai kembali permainan dengan bersih."
+            },
+            {
+              "label": "Arah senjata",
+              "value": "Primal Handstand adalah pilihan utama untuk cakupan penyelamatan murni, sementara Bear Claw adalah opsi cooldown rendah yang sangat andal."
+            },
+            {
+              "label": "Input utama",
+              "value": "F untuk blok berdiri, C dan Z untuk diving, E untuk mengambil bola, Q untuk diving ke depan dan menangkap, RMB untuk menendang jauh, ditambah R dan G untuk senjata dan Flow."
+            },
+            {
+              "label": "Apa yang biasanya salah",
+              "value": "Melakukan diving sebelum jalur tembakan terlihat sepenuhnya."
+            }
+          ]
+        }
+      ]
+    },
+    "lucidBlocksSteamDeckAndController": {
+      "title": "Panduan Tinggi Badan LOCKED 2",
+      "displayType": "comparisonTable",
+      "intro": "Pilihan tinggi badan LOCKED 2 membentuk kecepatan, stamina, kekuatan tembakan, dan jangkauan. Gunakan perbandingan berdampingan ini untuk memilih build yang sesuai dengan peran Anda sebelum menghabiskan Yen untuk reroll.",
+      "comparison": [
+        {
+          "profile": "Build Pendek LOCKED 2",
+          "heightRange": "5'3-5'8",
+          "speed": "Kecepatan lari lebih tinggi",
+          "stamina": "Stamina lebih tinggi",
+          "shotPower": "Kekuatan tembakan lebih rendah",
+          "hitbox": "Kerangka lebih kecil",
+          "bestFor": "Membawa bola, lari pemulihan, mengejar lawan, dan gaya bermain berbasis kecepatan"
+        },
+        {
+          "profile": "Build Tinggi LOCKED 2",
+          "heightRange": "5'9-6'3",
+          "speed": "Kecepatan lari lebih rendah",
+          "stamina": "Stamina lebih rendah",
+          "shotPower": "Kekuatan tembakan lebih tinggi",
+          "hitbox": "Kerangka lebih besar",
+          "bestFor": "Penyelesaian, tembakan jarak jauh, kehadiran fisik, dan perebutan bola di kotak penalti yang lebih kuat"
+        }
+      ],
+      "notes": [
+        "Build pendek LOCKED 2 biasanya lebih mudah untuk pressing tempo tinggi dan jalur pemulihan cepat.",
+        "Build tinggi LOCKED 2 menukar kecepatan dengan hasil tembakan yang lebih kuat dan cakupan perebutan bola yang lebih luas.",
+        "Gunakan Menu > Teleport > Customisation > Physical > Roll Height saat Anda perlu mengganti fokus profil."
+      ]
+    },
+    "lucidBlocksSettingsAndAccessibility": {
+      "title": "Panduan Kiper LOCKED 2",
+      "displayType": "stepByStep",
+      "intro": "Menjadi kiper di LOCKED 2 menghargai pembacaan cepat dan input yang bersih. Latih kit penyelamatan inti sampai setiap pilihan menjadi otomatis, lalu fokus pada penguasaan bola yang aman dan distribusi awal.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Atur kontrol kamera LOCKED 2 terlebih dahulu",
+          "description": "LOCKED 2 menggunakan Left Ctrl untuk Shift Lock secara default. Atur ulang di Settings > Keybinds sebelum mengantre jika diperlukan.",
+          "keys": [
+            "Left Ctrl"
+          ]
+        },
+        {
+          "step": 2,
+          "title": "Hafalkan enam tindakan inti kiper",
+          "description": "Jaga agar opsi penyelamatan Anda tetap sederhana: blok berdiri untuk tembakan ke arah tubuh, diving samping untuk sudut, diving depan untuk sentuhan liar, lalu ambil dan tendang jauh untuk memulai kembali.",
+          "keys": [
+            "F = Blok Berdiri",
+            "C = Diving Kanan",
+            "Z = Diving Kiri",
+            "Q = Diving Depan + Tangkap",
+            "E = Ambil Bola",
+            "RMB = Tendang Jauh"
+          ]
+        },
+        {
+          "step": 3,
+          "title": "Cocokkan setiap penyelamatan dengan garis tembakan",
+          "description": "Gunakan F saat penyelesaian tetap di tengah, gunakan C atau Z untuk jalur yang lebih lebar, dan gunakan Q saat penyerang menggiring bola berlebihan ke dalam jangkauan tangkapan Anda.",
+          "keys": [
+            "F",
+            "C",
+            "Z",
+            "Q"
+          ]
+        },
+        {
+          "step": 4,
+          "title": "Amankan penguasaan bola dan buang bola lebih awal",
+          "description": "Setelah setiap penghentian bersih, gunakan E untuk mengunci bola terlebih dahulu dan RMB untuk menendang jauh sebelum tekanan mendekat di sekitar kotak penalti Anda.",
+          "keys": [
+            "E",
+            "RMB"
+          ]
+        },
+        {
+          "step": 5,
+          "title": "Gunakan senjata defensif yang bertahan di LOCKED 2",
+          "description": "Primal Handstand dan Bear Claw tetap menjadi pilihan kiper yang paling dapat diandalkan untuk cakupan pertahanan yang stabil di bawah tekanan.",
+          "keys": [
+            "Primal Handstand",
+            "Bear Claw"
+          ]
+        }
+      ]
+    },
+    "lucidBlocksUpdatesAndPatchNotes": {
+      "title": "Mode Turnamen LOCKED 2",
+      "displayType": "stepByStep",
+      "intro": "Putaran turnamen LOCKED 2 dibangun di sekitar entri antrean, koordinasi acara, dan eksekusi yang disiplin. Gunakan alur ini agar siap menghadapi babak kompetitif.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Bergabung melalui antrean turnamen LOCKED 2",
+          "description": "Gunakan titik antrean lobi pusat untuk entri turnamen daripada jalur kasual standar.",
+          "keys": [
+            "Antrean tengah",
+            "Antrean turnamen"
+          ]
+        },
+        {
+          "step": 2,
+          "title": "Periksa pembaruan acara resmi LOCKED 2 sebelum mengantre",
+          "description": "Tinjau pengumuman resmi Discord agar tim Anda memiliki jendela acara, aturan, dan catatan bracket terbaru.",
+          "keys": [
+            "Pembaruan Discord resmi"
+          ]
+        },
+        {
+          "step": 3,
+          "title": "Kunci keybind dan pengaturan kamera sebelumnya",
+          "description": "Konfirmasikan Shift Lock dan kontrol peran sebelum masuk untuk menghindari kesalahan pengaturan selama babak berlangsung.",
+          "keys": [
+            "Left Ctrl = Shift Lock",
+            "Settings > Keybinds"
+          ]
+        },
+        {
+          "step": 4,
+          "title": "Bawa senjata aktif yang andal",
+          "description": "Tempo turnamen menghargai konsistensi di atas kelangkaan, jadi prioritaskan opsi terbukti yang dapat dieksekusi dengan bersih oleh susunan pemain Anda.",
+          "keys": [
+            "Primal Handstand",
+            "Bear Claw",
+            "Riptide Curve",
+            "Emperor",
+            "Immense Speed"
+          ]
+        },
+        {
+          "step": 5,
+          "title": "Mainkan sepak bola turnamen LOCKED 2 yang sederhana dan terkontrol",
+          "description": "Prioritaskan kualitas sentuhan pertama, pembersihan bola yang aman, dan aktivasi yang bersih alih-alih memaksakan permainan pahlawan dengan persentase rendah.",
+          "keys": [
+            "Waktu",
+            "Penempatan posisi",
+            "Sentuhan pertama",
+            "Pembersihan aman"
+          ]
+        }
+      ]
+    },
+    "lucidBlocksCrashFixAndTroubleshooting": {
+      "title": "Log Pembaruan LOCKED 2",
+      "displayType": "timelineCards",
+      "intro": "Lini masa LOCKED 2 ini menyoroti perubahan besar yang mengubah cara pemain membangun tim, menggunakan senjata, dan melacak pembaruan langsung.",
+      "timeline": [
+        {
+          "date": "Era Legacy LOCKED",
+          "title": "LOCKED 2 mewarisi fondasi kontrol sepak bola inti",
+          "summary": "Loop asli sudah menggabungkan kontrol pemain, kontrol penjaga gawang, dribbling, menembak, flow, senjata, trait, stamina, dan shift lock dalam permainan pertandingan langsung.",
+          "highlights": [
+            "Baseline kontrol M1 dribble dan M2 shoot",
+            "Sistem flow, senjata, trait, dan stamina sudah ada sebelum LOCKED 2",
+            "Ruang turnamen adalah bagian dari struktur kompetitif sebelumnya"
+          ]
+        },
+        {
+          "date": "Build peluncuran LOCKED:2",
+          "title": "LOCKED 2 diluncurkan sebagai pengerjaan ulang dari awal",
+          "summary": "Build peluncuran memposisikan LOCKED 2 sebagai versi yang dibangun kembali dengan fokus pada sistem yang lebih halus, performa yang ditingkatkan, dan ritme kompetitif yang lebih kuat.",
+          "highlights": [
+            "Pembangunan kembali dari awal",
+            "Sistem yang lebih halus",
+            "Fokus kompetitif yang lebih kuat"
+          ]
+        },
+        {
+          "date": "15 April 2026",
+          "title": "Senjata LOCKED 2 beralih dari pasif menjadi dapat diaktifkan",
+          "summary": "Waktu manual menjadi sangat penting karena senjata berpindah dari peningkatan pasif ke dampak berbasis aktivasi.",
+          "highlights": [
+            "Bear Claw menjamin tangkapan saat aktivasi",
+            "Power Shot menjadi penyelesaian berbasis charge",
+            "Primal Handstand muncul sebagai opsi pertahanan premium"
+          ]
+        },
+        {
+          "date": "16 April 2026",
+          "title": "Meta senjata awal LOCKED 2 terbentuk dengan cepat",
+          "summary": "Pelacakan tingkat awal menetap di sekitar stabilitas pertahanan dan penyelesaian instan, dengan beberapa pilihan menjadi standar awal.",
+          "highlights": [
+            "Tingkat atas: Primal Handstand, Serpent, Emperor",
+            "Tindak lanjut bernilai tinggi: Crushing Header, Riptide Curve, Immense Speed",
+            "Nilai pertahanan stabil lebih cepat dari yang diperkirakan"
+          ]
+        },
+        {
+          "date": "19 April 2026",
+          "title": "Discord resmi menjadi pusat pembaruan langsung LOCKED 2",
+          "summary": "Pengumuman langsung, diskusi build, dan pembaruan acara bergerak paling cepat melalui alur kerja Discord komunitas.",
+          "highlights": [
+            "Pengumuman langsung",
+            "Diskusi build",
+            "Pembaruan acara"
+          ]
+        },
+        {
+          "date": "19 April 2026",
+          "title": "Kode LOCKED 2 minggu peluncuran memberikan hadiah Yen awal",
+          "summary": "Pelacakan peluncuran mengonfirmasi gelombang hadiah pertama yang mendukung kustomisasi awal dan perencanaan reroll.",
+          "highlights": [
+            "RELEASE = 10k Yen",
+            "BUGFIX01 = 10k Yen",
+            "TY5KLIKES = 15k Yen"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan Umum LOCKED 2",
+    "titleHighlight": "Sering Diajukan",
+    "subtitle": "Segala hal yang perlu Anda ketahui sebelum sesi pertandingan LOCKED 2 berikutnya",
+    "questions": [
+      {
+        "question": "Bagaimana cara menukarkan kode LOCKED 2 dengan cepat?",
+        "answer": "Buka Menu > Store > Codes setelah penyelesaian tutorial, lalu masukkan setiap kode LOCKED 2 aktif persis seperti yang tertera."
+      },
+      {
+        "question": "Apa yang harus saya pelajari pertama kali di LOCKED 2?",
+        "answer": "Mulailah dengan kontrol inti, pengaturan stamina, dan keputusan peran yang aman sebelum mempelajari dribbling tingkat lanjut dan eksekusi kombo."
+      },
+      {
+        "question": "Di mana saya bisa menemukan pembaruan resmi LOCKED 2?",
+        "answer": "Gunakan Discord resmi LOCKED 2, papan Trello, halaman game Roblox, dan grup MOMENTXM untuk saluran pembaruan pihak pertama."
+      },
+      {
+        "question": "Apa pendekatan build LOCKED 2 yang paling aman untuk pemula?",
+        "answer": "Gunakan build fokus peran yang stabil dengan senjata dan trait yang andal, lalu lakukan spesialisasi setelah dasar-dasar Anda konsisten."
+      },
+      {
+        "question": "Seberapa sering saya harus meninjau kembali tier list LOCKED 2?",
+        "answer": "Periksa kembali tier senjata dan trait LOCKED 2 setelah setiap gelombang pembaruan karena perubahan keseimbangan dapat dengan cepat mengubah nilai praktis."
+      },
+      {
+        "question": "Bagaimana cara meningkatkan konsistensi penjaga gawang LOCKED 2?",
+        "answer": "Berlatihlah disiplin sudut, waktu penyelamatan yang terukur, dan pilihan distribusi yang lebih bersih setelah setiap penyelamatan."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Siap untuk Meningkat di LOCKED 2?",
+    "description": "Bergabunglah dengan kanal resmi LOCKED 2 untuk kode terbaru, peringatan pembaruan, dan diskusi pertandingan kompetitif.",
+    "joinCommunity": "Bergabung dengan Discord LOCKED 2",
+    "joinGame": "Mainkan LOCKED:2 di Roblox"
+  },
+  "footer": {
+    "title": "Wiki LOCKED 2",
+    "description": "Pusat sumber daya LOCKED 2 lengkap Anda untuk kode, kontrol, build, tier list, dan panduan kompetitif khusus peran.",
+    "resources": "Sumber Daya",
+    "community": "Komunitas",
+    "legal": "Legal",
+    "discord": "Discord Resmi",
+    "twitter": "YouTube Resmi",
+    "steamCommunity": "Roblox Group Resmi",
+    "steamStore": "Mainkan LOCKED:2 di Roblox",
+    "about": "Tentang",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "copyrightNotice": "Hak Cipta",
+    "copyright": "© 2026 Wiki LOCKED 2. Situs sumber daya tidak resmi buatan penggemar.",
+    "disclaimer": "Wiki LOCKED 2 tidak berafiliasi dengan Roblox Corporation atau MOMENTXM."
+  },
+  "pages": {
+    "codes": {
+      "title": "Kode LOCKED 2",
+      "description": "Kode LOCKED 2 terbaru yang berfungsi untuk Yen gratis, mata uang bonus, dan bantuan penukaran cepat.",
+      "metaTitle": "Kode LOCKED 2 - Hadiah Aktif dan Langkah Penukaran",
+      "metaDescription": "Temukan kode LOCKED 2 aktif, klaim hadiah Yen gratis, dan ikuti langkah penukaran cepat untuk setiap siklus pembaruan.",
+      "categoryLabel": "KODE LOCKED 2",
+      "whatIs": "Apa itu Kode LOCKED 2?",
+      "whatIsDescription": "Kode LOCKED 2 adalah rangkaian hadiah terbatas dari pengembang yang memberikan Yen gratis dan bonus acara. Pusat /codes ini melacak kode yang aktif, kedaluwarsa, dan yang baru ditambahkan.",
+      "why": "Mengapa memeriksa Kode LOCKED 2?",
+      "whySteps": {
+        "step1Title": "Klaim Yen Gratis Lebih Cepat",
+        "step1Description": "Tukarkan kode LOCKED 2 aktif lebih awal untuk mendanai build, roll, dan eksperimen tanpa grinding ekstra.",
+        "step2Title": "Hindari Entri yang Kedaluwarsa",
+        "step2Description": "Gunakan daftar bersih yang memisahkan batch kode aktif dan yang sudah kedaluwarsa sehingga setiap upaya penukaran menjadi efisien.",
+        "step3Title": "Ikuti Rilisan Baru",
+        "step3Description": "Lacak perilisan pada hari pembaruan dan acara komunitas di mana kode LOCKED 2 baru biasanya muncul pertama kali."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Kode LOCKED 2"
+    },
+    "guide": {
+      "title": "Panduan LOCKED 2",
+      "description": "Cakupan panduan esensial LOCKED 2 untuk kontrol, dribbling, pengaturan, tip, dan fundamental pertandingan.",
+      "metaTitle": "Panduan LOCKED 2 - Kontrol, Dribbling, dan Fundamental Pemula",
+      "metaDescription": "Baca pusat Panduan LOCKED 2 untuk dasar-dasar pengaturan, mekanik dribbling, kontrol, dan langkah-langkah peningkatan pertandingan praktis.",
+      "categoryLabel": "PANDUAN LOCKED 2",
+      "whatIs": "Apa itu pusat Panduan LOCKED 2?",
+      "whatIsDescription": "Bagian /guide mengumpulkan artikel pembelajaran inti untuk LOCKED 2, termasuk pengenalan bagi pemula, kontrol gerakan, ritme dribbling, optimalisasi pengaturan, dan navigasi peta.",
+      "why": "Mengapa menggunakan pusat Panduan LOCKED 2?",
+      "whySteps": {
+        "step1Title": "Bangun Dasar yang Kuat",
+        "step1Description": "Pelajari kontrol, kamera, dan penanganan stamina sebelum terjun ke lingkungan peringkat atau scrim yang lebih sulit.",
+        "step2Title": "Tingkatkan Keputusan Pertandingan",
+        "step2Description": "Terapkan kebiasaan pemosisian dan pengoperan praktis dari panduan terarah alih-alih mengandalkan coba-coba yang acak.",
+        "step3Title": "Berlatih dengan Struktur",
+        "step3Description": "Gunakan jalur perkembangan yang jelas dari topik panduan LOCKED 2 pemula hingga lanjutan agar sesi latihan tetap terfokus."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Artikel Panduan LOCKED 2"
+    },
+    "weapons": {
+      "title": "Senjata LOCKED 2",
+      "description": "Bandingkan Senjata LOCKED 2 dengan kesesuaian peran, kekuatan, kelemahan, dan catatan penggunaan praktis.",
+      "metaTitle": "Senjata LOCKED 2 - Catatan Tier, Kekuatan, dan Kesesuaian Peran",
+      "metaDescription": "Jelajahi Senjata LOCKED 2 untuk evaluasi tier, perilaku skill, nilai kecocokan, dan rekomendasi khusus posisi.",
+      "categoryLabel": "SENJATA LOCKED 2",
+      "whatIs": "Apa itu Senjata LOCKED 2?",
+      "whatIsDescription": "Senjata LOCKED 2 adalah rangkaian kemampuan inti yang membentuk rute tembakan, tekanan dribel, dan identitas permainan Anda. Hub /weapons membandingkan setiap opsi berdasarkan nilai pertandingan nyata.",
+      "why": "Mengapa mempelajari Senjata LOCKED 2?",
+      "whySteps": {
+        "step1Title": "Pilih Kit yang Tepat",
+        "step1Description": "Sesuaikan setiap senjata dengan peran dan tempo pilihan Anda agar perangkat Anda mendukung keputusan yang konsisten.",
+        "step2Title": "Pahami Kelebihan dan Kekurangan",
+        "step2Description": "Lihat kapan opsi berkekuatan tinggi mengungguli kit yang berfokus pada mobilitas dan kapan sebaliknya.",
+        "step3Title": "Tingkatkan Sinergi Build",
+        "step3Description": "Pasangkan Senjata LOCKED 2 dengan build yang kompatibel untuk memaksimalkan tingkat konversi di momen-momen kritis."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Senjata LOCKED 2"
+    },
+    "builds": {
+      "title": "Build LOCKED 2",
+      "description": "Build LOCKED 2 berbasis peran untuk striker, gelandang, dan gaya bermain hibrida di meta saat ini.",
+      "metaTitle": "Build LOCKED 2 - Setup Terbaik untuk Setiap Posisi",
+      "metaDescription": "Telusuri Build LOCKED 2 untuk setup yang berfokus pada peran, prioritas statistik, dan kombinasi senjata yang sesuai dengan pembaruan saat ini.",
+      "categoryLabel": "BUILD LOCKED 2",
+      "whatIs": "Apa itu Build LOCKED 2?",
+      "whatIsDescription": "Build LOCKED 2 menggabungkan identitas posisi, prioritas statistik, dan pilihan senjata ke dalam setup pertandingan yang dapat diulang. Bagian /builds merinci templat praktis untuk setiap peran.",
+      "why": "Mengapa mengoptimalkan Build LOCKED 2?",
+      "whySteps": {
+        "step1Title": "Sesuaikan dengan Posisi Anda",
+        "step1Description": "Gunakan build yang disesuaikan untuk tanggung jawab striker, gelandang, atau pendukung, bukan preset satu ukuran untuk semua.",
+        "step2Title": "Berkembang dengan Pembaruan",
+        "step2Description": "Perbarui prioritas statistik dan senjata dengan cepat setelah perubahan keseimbangan tanpa membangun ulang dari awal.",
+        "step3Title": "Kurangi Kebingungan Pengujian",
+        "step3Description": "Mulailah dari Build LOCKED 2 yang terbukti sehingga waktu latihan digunakan untuk eksekusi, bukan reset setup yang acak."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Build LOCKED 2"
+    },
+    "links": {
+      "title": "Link LOCKED 2",
+      "description": "Link resmi LOCKED 2 untuk Discord, Trello, hub komunitas, dan sumber daya eksternal utama.",
+      "metaTitle": "Link LOCKED 2 - Discord Resmi, Trello, dan Hub Komunitas",
+      "metaDescription": "Buka link LOCKED 2 terverifikasi ke saluran Discord resmi, papan Trello, dan halaman diskusi komunitas utama.",
+      "categoryLabel": "LINK LOCKED 2",
+      "whatIs": "Apa itu Link LOCKED 2?",
+      "whatIsDescription": "Bagian /links adalah direktori akses cepat untuk tujuan eksternal LOCKED 2, termasuk saluran resmi, ruang diskusi, dan sumber daya perencanaan yang digunakan oleh pemain aktif.",
+      "why": "Mengapa menyimpan Link LOCKED 2 di bookmark?",
+      "whySteps": {
+        "step1Title": "Temukan Saluran Resmi",
+        "step1Description": "Langsung menuju Discord dan sumber roadmap untuk pengumuman, perbaikan, dan pemberitahuan acara.",
+        "step2Title": "Pantau Sinyal Komunitas",
+        "step2Description": "Ikuti Reddit dan hub terkait untuk memantau pergeseran meta, loadout, dan strategi pertandingan dari pemain sungguhan.",
+        "step3Title": "Hemat Waktu Navigasi",
+        "step3Description": "Gunakan satu halaman Link LOCKED 2 daripada mencari di berbagai platform sebelum setiap sesi."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Link LOCKED 2"
+    },
+    "release": {
+      "title": "Rilis LOCKED 2",
+      "description": "Liputan Rilis LOCKED 2 dengan lini masa peluncuran, konteks beta, dan detail ketersediaan resmi.",
+      "metaTitle": "Rilis LOCKED 2 - Tanggal Peluncuran, Catatan Beta, dan Ketersediaan",
+      "metaDescription": "Pantau informasi Rilis LOCKED 2, jendela peluncuran, pencapaian beta, dan pembaruan waktu kesiapan platform.",
+      "categoryLabel": "RILIS LOCKED 2",
+      "whatIs": "Apa itu liputan Rilis LOCKED 2?",
+      "whatIsDescription": "Bagian /release mendokumentasikan waktu peluncuran, pencapaian dari beta ke live, dan pembaruan status akses sehingga pemain dapat bersiap di sekitar jendela peluncuran resmi LOCKED 2.",
+      "why": "Mengapa mengikuti pembaruan Rilis LOCKED 2?",
+      "whySteps": {
+        "step1Title": "Bersiap untuk Jendela Peluncuran",
+        "step1Description": "Ketahui perubahan waktu rilis dan peluncuran yang tepat untuk menjadwalkan reset, sesi tim, dan rute progresi awal.",
+        "step2Title": "Pahami Konteks Versi",
+        "step2Description": "Bandingkan perilaku beta dengan perilaku saat peluncuran sebelum menentukan build akhir dan pilihan peran.",
+        "step3Title": "Pantau Perubahan Akses",
+        "step3Description": "Tetap terinformasi tentang waktu rilis wilayah LOCKED 2 dan detail entri saat aturan peluncuran berubah."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Artikel Rilis LOCKED 2"
+    },
+    "update": {
+      "title": "Pembaruan LOCKED 2",
+      "description": "Liputan Pembaruan LOCKED 2 untuk catatan patch, perubahan keseimbangan, dan setiap tambahan baru yang besar.",
+      "metaTitle": "Pembaruan LOCKED 2 - Catatan Patch, Perubahan Keseimbangan, dan Konten Baru",
+      "metaDescription": "Baca setiap Pembaruan LOCKED 2 dengan sorotan patch, dampak keseimbangan, dan catatan praktis untuk mengadaptasi build dengan cepat.",
+      "categoryLabel": "PEMBARUAN LOCKED 2",
+      "whatIs": "Apa itu bagian Pembaruan LOCKED 2?",
+      "whatIsDescription": "Bagian /update melacak setiap siklus patch LOCKED 2, termasuk penyesuaian gameplay, tweak sistem, dan perbandingan ringkasan yang menjelaskan apa yang berubah dan mengapa itu penting.",
+      "why": "Mengapa meninjau setiap Pembaruan LOCKED 2?",
+      "whySteps": {
+        "step1Title": "Pahami Pergeseran Keseimbangan",
+        "step1Description": "Lihat strategi mana yang nilainya meningkat dan mana yang kehilangan konsistensi setelah setiap rilis catatan patch.",
+        "step2Title": "Beradaptasi Lebih Cepat",
+        "step2Description": "Perbarui pilihan senjata dan setup peran Anda tanpa menunggu kekalahan coba-coba di pertandingan peringkat.",
+        "step3Title": "Pantau Meta Jangka Panjang",
+        "step3Description": "Gunakan riwayat Pembaruan LOCKED 2 kumulatif untuk memahami ke mana arah permainan selama beberapa versi."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Artikel Pembaruan LOCKED 2"
+    },
+    "media": {
+      "title": "Media LOCKED 2",
+      "description": "Hub Media LOCKED 2 untuk video gameplay, trailer, logo, dan sorotan montase.",
+      "metaTitle": "Media LOCKED 2 - Gameplay, Trailer, Logo, dan Sorotan",
+      "metaDescription": "Telusuri aset Media LOCKED 2 termasuk klip gameplay, trailer resmi, referensi logo, dan pilihan montase yang dikurasi.",
+      "categoryLabel": "MEDIA LOCKED 2",
+      "whatIs": "Apa itu hub Media LOCKED 2?",
+      "whatIsDescription": "Bagian /media mengumpulkan sumber daya visual LOCKED 2, termasuk tangkapan gameplay, referensi trailer, logo, dan video showcase yang berguna untuk analisis atau berbagi.",
+      "why": "Mengapa menggunakan sumber daya Media LOCKED 2?",
+      "whySteps": {
+        "step1Title": "Tinjau Gameplay dengan Cepat",
+        "step1Description": "Tonton klip utama untuk mempelajari waktu pergerakan, pilihan tembakan, dan koordinasi tim sebelum pertandingan.",
+        "step2Title": "Bagikan Aset Resmi",
+        "step2Description": "Akses referensi logo dan trailer yang konsisten saat memposting panduan, pembaruan, atau rekap komunitas.",
+        "step3Title": "Temukan Contoh Meta",
+        "step3Description": "Gunakan showcase Media LOCKED 2 untuk mengidentifikasi pola praktis yang berhasil dalam permainan langsung."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Media LOCKED 2"
+    }
+  }
+}

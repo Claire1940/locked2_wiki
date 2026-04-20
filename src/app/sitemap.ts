@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { getAllContent, CONTENT_TYPES, type ContentType } from '@/lib/content'
 import { routing, type Locale } from '@/i18n/routing'
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.locked2.wiki'
 
 // 静态页面配置
 const staticPagesConfig: Record<string, { priority: number; changeFrequency: 'monthly' | 'yearly' }> = {
@@ -12,28 +12,28 @@ const staticPagesConfig: Record<string, { priority: number; changeFrequency: 'mo
 	'copyright': { priority: 0.3, changeFrequency: 'yearly' },
 }
 
-// 内容类型优先级配置
+// 内容类型优先级配置（与 src/config/navigation.ts 保持一致）
 const contentTypePriority: Record<string, number> = {
-	'guides': 0.9,
-	'crafting': 0.9,
-	'biomes': 0.8,
-	'creatures': 0.8,
-	'items': 0.8,
-	'achievements': 0.7,
-	'lore': 0.7,
-	'support': 0.6,
+	'codes': 0.95,
+	'guide': 0.9,
+	'weapons': 0.9,
+	'builds': 0.88,
+	'update': 0.86,
+	'links': 0.75,
+	'release': 0.72,
+	'media': 0.68,
 }
 
 // 内容更新频率配置
 const contentTypeChangeFrequency: Record<string, 'daily' | 'weekly' | 'monthly'> = {
-	'guides': 'weekly',
-	'crafting': 'weekly',
-	'biomes': 'weekly',
-	'creatures': 'weekly',
-	'items': 'weekly',
-	'achievements': 'monthly',
-	'lore': 'monthly',
-	'support': 'monthly',
+	'codes': 'daily',
+	'guide': 'weekly',
+	'weapons': 'weekly',
+	'builds': 'weekly',
+	'update': 'daily',
+	'links': 'weekly',
+	'release': 'monthly',
+	'media': 'weekly',
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
@@ -67,6 +67,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 	for (const locale of routing.locales) {
 		for (const contentType of CONTENT_TYPES) {
 			try {
+				// 先添加内容聚合页
+				sitemap.push({
+					url: locale === 'en' ? `${BASE_URL}/${contentType}` : `${BASE_URL}/${locale}/${contentType}`,
+					lastModified: new Date(),
+					changeFrequency: contentTypeChangeFrequency[contentType] || 'weekly',
+					priority: contentTypePriority[contentType] || 0.7,
+				})
+
 				// 获取该语言和内容类型的所有文章
 				const articles = await getAllContent(contentType as ContentType, locale as Locale)
 
