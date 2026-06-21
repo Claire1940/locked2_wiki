@@ -1,0 +1,1242 @@
+{
+  "en": {
+    "builds": [
+      {
+        "slug": "locked-2-best-build",
+        "file": "locked-2-best-build"
+      },
+      {
+        "slug": "locked-2-builds",
+        "file": "locked-2-builds"
+      },
+      {
+        "slug": "locked-2-isagi-build",
+        "file": "locked-2-isagi-build"
+      },
+      {
+        "slug": "locked-2-kaiser-build",
+        "file": "locked-2-kaiser-build"
+      },
+      {
+        "slug": "locked-2-midfielder-build",
+        "file": "locked-2-midfielder-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "all-locked-2-weapons",
+        "file": "all-locked-2-weapons"
+      },
+      {
+        "slug": "best-height-in-locked-2",
+        "file": "best-height-in-locked-2"
+      },
+      {
+        "slug": "discord-locked-2",
+        "file": "discord-locked-2"
+      },
+      {
+        "slug": "locked-2-abilities",
+        "file": "locked-2-abilities"
+      },
+      {
+        "slug": "locked-2-all-flows",
+        "file": "locked-2-all-flows"
+      },
+      {
+        "slug": "locked-2-chameleon",
+        "file": "locked-2-chameleon"
+      },
+      {
+        "slug": "locked-2-codes",
+        "file": "locked-2-codes"
+      },
+      {
+        "slug": "locked-2-commands",
+        "file": "locked-2-commands"
+      },
+      {
+        "slug": "locked-2-discord-server",
+        "file": "locked-2-discord-server"
+      },
+      {
+        "slug": "locked-2-flow",
+        "file": "locked-2-flow"
+      },
+      {
+        "slug": "locked-2-flows",
+        "file": "locked-2-flows"
+      },
+      {
+        "slug": "locked-2-metavision",
+        "file": "locked-2-metavision"
+      },
+      {
+        "slug": "locked-2-perfect-counter",
+        "file": "locked-2-perfect-counter"
+      },
+      {
+        "slug": "locked-2-private-server",
+        "file": "locked-2-private-server"
+      },
+      {
+        "slug": "locked-2-ps-commands",
+        "file": "locked-2-ps-commands"
+      },
+      {
+        "slug": "locked-2-roblox-discord",
+        "file": "locked-2-roblox-discord"
+      },
+      {
+        "slug": "locked-2-roblox-wiki",
+        "file": "locked-2-roblox-wiki"
+      },
+      {
+        "slug": "locked-2-tier-list",
+        "file": "locked-2-tier-list"
+      },
+      {
+        "slug": "locked-2-tierlist",
+        "file": "locked-2-tierlist"
+      },
+      {
+        "slug": "locked-2-trelli",
+        "file": "locked-2-trelli"
+      },
+      {
+        "slug": "locked-2-trello-roblox",
+        "file": "locked-2-trello-roblox"
+      },
+      {
+        "slug": "locked-2-weapon-tierlist",
+        "file": "locked-2-weapon-tierlist"
+      },
+      {
+        "slug": "locked-2-wiki-roblox",
+        "file": "locked-2-wiki-roblox"
+      },
+      {
+        "slug": "locked-2-wiki",
+        "file": "locked-2-wiki"
+      },
+      {
+        "slug": "locked-trello",
+        "file": "locked-trello"
+      },
+      {
+        "slug": "locked-2-script",
+        "file": "locked:2-script"
+      },
+      {
+        "slug": "meta-vision-locked-2",
+        "file": "meta-vision-locked-2"
+      },
+      {
+        "slug": "metavision-locked-2",
+        "file": "metavision-locked-2"
+      },
+      {
+        "slug": "perfect-counter-locked-2",
+        "file": "perfect-counter-locked-2"
+      },
+      {
+        "slug": "roblox-locked-2-trello",
+        "file": "roblox-locked-2-trello"
+      },
+      {
+        "slug": "roblox-locked-2-wiki",
+        "file": "roblox-locked-2-wiki"
+      },
+      {
+        "slug": "tier-list-locked-2",
+        "file": "tier-list-locked-2"
+      },
+      {
+        "slug": "trello-locked-2",
+        "file": "trello-locked-2"
+      },
+      {
+        "slug": "wiki-locked-2",
+        "file": "wiki-locked-2"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "how-to-dribble-in-locked-2",
+        "file": "how-to-dribble-in-locked-2"
+      },
+      {
+        "slug": "how-to-spawn-ball-in-locked-2",
+        "file": "how-to-spawn-ball-in-locked-2"
+      },
+      {
+        "slug": "locked-2-beginner-guide",
+        "file": "locked-2-beginner-guide"
+      },
+      {
+        "slug": "locked-2-controls",
+        "file": "locked-2-controls"
+      },
+      {
+        "slug": "locked-2-dribbling-guide",
+        "file": "locked-2-dribbling-guide"
+      },
+      {
+        "slug": "locked-2-guide",
+        "file": "locked-2-guide"
+      },
+      {
+        "slug": "locked-2-locations",
+        "file": "locked-2-locations"
+      },
+      {
+        "slug": "locked-2-settings",
+        "file": "locked-2-settings"
+      },
+      {
+        "slug": "locked-2-tips",
+        "file": "locked-2-tips"
+      }
+    ],
+    "links": [
+      {
+        "slug": "locked-2-com",
+        "file": "locked-2-com"
+      },
+      {
+        "slug": "locked-2-discord",
+        "file": "locked-2-discord"
+      },
+      {
+        "slug": "locked-2-reddit",
+        "file": "locked-2-reddit"
+      },
+      {
+        "slug": "locked-2-trello",
+        "file": "locked-2-trello"
+      }
+    ],
+    "media": [
+      {
+        "slug": "locked-2-gameplay",
+        "file": "locked-2-gameplay"
+      },
+      {
+        "slug": "locked-2-logo",
+        "file": "locked-2-logo"
+      },
+      {
+        "slug": "locked-2-montage",
+        "file": "locked-2-montage"
+      },
+      {
+        "slug": "locked-2-youtube",
+        "file": "locked-2-youtube"
+      }
+    ],
+    "release": [
+      {
+        "slug": "locked-2-beta",
+        "file": "locked-2-beta"
+      },
+      {
+        "slug": "locked-2-launch-time",
+        "file": "locked-2-launch-time"
+      },
+      {
+        "slug": "locked-2-release",
+        "file": "locked-2-release"
+      }
+    ],
+    "update": [
+      {
+        "slug": "locked-2-all-changes",
+        "file": "locked-2-all-changes"
+      },
+      {
+        "slug": "locked-2-everything-new",
+        "file": "locked-2-everything-new"
+      },
+      {
+        "slug": "locked-2-patch-notes",
+        "file": "locked-2-patch-notes"
+      },
+      {
+        "slug": "locked-2-update",
+        "file": "locked-2-update"
+      },
+      {
+        "slug": "locked-2-vs-locked-1",
+        "file": "locked-2-vs-locked-1"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "best-weapons-in-locked-2",
+        "file": "best-weapons-in-locked-2"
+      },
+      {
+        "slug": "locked-2-all-weapons",
+        "file": "locked-2-all-weapons"
+      },
+      {
+        "slug": "locked-2-best-weapons",
+        "file": "locked-2-best-weapons"
+      },
+      {
+        "slug": "locked-2-reo-weapon",
+        "file": "locked-2-reo-weapon"
+      },
+      {
+        "slug": "locked-2-serpent-weapon",
+        "file": "locked-2-serpent-weapon"
+      },
+      {
+        "slug": "locked-2-weapon-showcase",
+        "file": "locked-2-weapon-showcase"
+      },
+      {
+        "slug": "locked-2-weapon-tier-list",
+        "file": "locked-2-weapon-tier-list"
+      },
+      {
+        "slug": "locked-2-weapons-tier-list",
+        "file": "locked-2-weapons-tier-list"
+      },
+      {
+        "slug": "locked-2-weapons",
+        "file": "locked-2-weapons"
+      }
+    ]
+  },
+  "es": {
+    "builds": [
+      {
+        "slug": "locked-2-best-build",
+        "file": "locked-2-best-build"
+      },
+      {
+        "slug": "locked-2-builds",
+        "file": "locked-2-builds"
+      },
+      {
+        "slug": "locked-2-isagi-build",
+        "file": "locked-2-isagi-build"
+      },
+      {
+        "slug": "locked-2-kaiser-build",
+        "file": "locked-2-kaiser-build"
+      },
+      {
+        "slug": "locked-2-midfielder-build",
+        "file": "locked-2-midfielder-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "all-locked-2-weapons",
+        "file": "all-locked-2-weapons"
+      },
+      {
+        "slug": "best-height-in-locked-2",
+        "file": "best-height-in-locked-2"
+      },
+      {
+        "slug": "discord-locked-2",
+        "file": "discord-locked-2"
+      },
+      {
+        "slug": "locked-2-abilities",
+        "file": "locked-2-abilities"
+      },
+      {
+        "slug": "locked-2-all-flows",
+        "file": "locked-2-all-flows"
+      },
+      {
+        "slug": "locked-2-chameleon",
+        "file": "locked-2-chameleon"
+      },
+      {
+        "slug": "locked-2-codes",
+        "file": "locked-2-codes"
+      },
+      {
+        "slug": "locked-2-commands",
+        "file": "locked-2-commands"
+      },
+      {
+        "slug": "locked-2-discord-server",
+        "file": "locked-2-discord-server"
+      },
+      {
+        "slug": "locked-2-flow",
+        "file": "locked-2-flow"
+      },
+      {
+        "slug": "locked-2-flows",
+        "file": "locked-2-flows"
+      },
+      {
+        "slug": "locked-2-metavision",
+        "file": "locked-2-metavision"
+      },
+      {
+        "slug": "locked-2-perfect-counter",
+        "file": "locked-2-perfect-counter"
+      },
+      {
+        "slug": "locked-2-private-server",
+        "file": "locked-2-private-server"
+      },
+      {
+        "slug": "locked-2-ps-commands",
+        "file": "locked-2-ps-commands"
+      },
+      {
+        "slug": "locked-2-roblox-discord",
+        "file": "locked-2-roblox-discord"
+      },
+      {
+        "slug": "locked-2-roblox-wiki",
+        "file": "locked-2-roblox-wiki"
+      },
+      {
+        "slug": "locked-2-tier-list",
+        "file": "locked-2-tier-list"
+      },
+      {
+        "slug": "locked-2-tierlist",
+        "file": "locked-2-tierlist"
+      },
+      {
+        "slug": "locked-2-trelli",
+        "file": "locked-2-trelli"
+      },
+      {
+        "slug": "locked-2-trello-roblox",
+        "file": "locked-2-trello-roblox"
+      },
+      {
+        "slug": "locked-2-weapon-tierlist",
+        "file": "locked-2-weapon-tierlist"
+      },
+      {
+        "slug": "locked-2-wiki-roblox",
+        "file": "locked-2-wiki-roblox"
+      },
+      {
+        "slug": "locked-2-wiki",
+        "file": "locked-2-wiki"
+      },
+      {
+        "slug": "locked-trello",
+        "file": "locked-trello"
+      },
+      {
+        "slug": "locked-2-script",
+        "file": "locked:2-script"
+      },
+      {
+        "slug": "meta-vision-locked-2",
+        "file": "meta-vision-locked-2"
+      },
+      {
+        "slug": "metavision-locked-2",
+        "file": "metavision-locked-2"
+      },
+      {
+        "slug": "perfect-counter-locked-2",
+        "file": "perfect-counter-locked-2"
+      },
+      {
+        "slug": "roblox-locked-2-trello",
+        "file": "roblox-locked-2-trello"
+      },
+      {
+        "slug": "roblox-locked-2-wiki",
+        "file": "roblox-locked-2-wiki"
+      },
+      {
+        "slug": "tier-list-locked-2",
+        "file": "tier-list-locked-2"
+      },
+      {
+        "slug": "trello-locked-2",
+        "file": "trello-locked-2"
+      },
+      {
+        "slug": "wiki-locked-2",
+        "file": "wiki-locked-2"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "how-to-dribble-in-locked-2",
+        "file": "how-to-dribble-in-locked-2"
+      },
+      {
+        "slug": "how-to-spawn-ball-in-locked-2",
+        "file": "how-to-spawn-ball-in-locked-2"
+      },
+      {
+        "slug": "locked-2-beginner-guide",
+        "file": "locked-2-beginner-guide"
+      },
+      {
+        "slug": "locked-2-controls",
+        "file": "locked-2-controls"
+      },
+      {
+        "slug": "locked-2-dribbling-guide",
+        "file": "locked-2-dribbling-guide"
+      },
+      {
+        "slug": "locked-2-guide",
+        "file": "locked-2-guide"
+      },
+      {
+        "slug": "locked-2-locations",
+        "file": "locked-2-locations"
+      },
+      {
+        "slug": "locked-2-settings",
+        "file": "locked-2-settings"
+      },
+      {
+        "slug": "locked-2-tips",
+        "file": "locked-2-tips"
+      }
+    ],
+    "links": [
+      {
+        "slug": "locked-2-com",
+        "file": "locked-2-com"
+      },
+      {
+        "slug": "locked-2-discord",
+        "file": "locked-2-discord"
+      },
+      {
+        "slug": "locked-2-reddit",
+        "file": "locked-2-reddit"
+      },
+      {
+        "slug": "locked-2-trello",
+        "file": "locked-2-trello"
+      }
+    ],
+    "media": [
+      {
+        "slug": "locked-2-gameplay",
+        "file": "locked-2-gameplay"
+      },
+      {
+        "slug": "locked-2-logo",
+        "file": "locked-2-logo"
+      },
+      {
+        "slug": "locked-2-montage",
+        "file": "locked-2-montage"
+      },
+      {
+        "slug": "locked-2-youtube",
+        "file": "locked-2-youtube"
+      }
+    ],
+    "release": [
+      {
+        "slug": "locked-2-beta",
+        "file": "locked-2-beta"
+      },
+      {
+        "slug": "locked-2-launch-time",
+        "file": "locked-2-launch-time"
+      },
+      {
+        "slug": "locked-2-release",
+        "file": "locked-2-release"
+      }
+    ],
+    "update": [
+      {
+        "slug": "locked-2-all-changes",
+        "file": "locked-2-all-changes"
+      },
+      {
+        "slug": "locked-2-everything-new",
+        "file": "locked-2-everything-new"
+      },
+      {
+        "slug": "locked-2-patch-notes",
+        "file": "locked-2-patch-notes"
+      },
+      {
+        "slug": "locked-2-update",
+        "file": "locked-2-update"
+      },
+      {
+        "slug": "locked-2-vs-locked-1",
+        "file": "locked-2-vs-locked-1"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "best-weapons-in-locked-2",
+        "file": "best-weapons-in-locked-2"
+      },
+      {
+        "slug": "locked-2-all-weapons",
+        "file": "locked-2-all-weapons"
+      },
+      {
+        "slug": "locked-2-best-weapons",
+        "file": "locked-2-best-weapons"
+      },
+      {
+        "slug": "locked-2-reo-weapon",
+        "file": "locked-2-reo-weapon"
+      },
+      {
+        "slug": "locked-2-serpent-weapon",
+        "file": "locked-2-serpent-weapon"
+      },
+      {
+        "slug": "locked-2-weapon-showcase",
+        "file": "locked-2-weapon-showcase"
+      },
+      {
+        "slug": "locked-2-weapon-tier-list",
+        "file": "locked-2-weapon-tier-list"
+      },
+      {
+        "slug": "locked-2-weapons-tier-list",
+        "file": "locked-2-weapons-tier-list"
+      },
+      {
+        "slug": "locked-2-weapons",
+        "file": "locked-2-weapons"
+      }
+    ]
+  },
+  "id": {
+    "builds": [
+      {
+        "slug": "locked-2-best-build",
+        "file": "locked-2-best-build"
+      },
+      {
+        "slug": "locked-2-builds",
+        "file": "locked-2-builds"
+      },
+      {
+        "slug": "locked-2-isagi-build",
+        "file": "locked-2-isagi-build"
+      },
+      {
+        "slug": "locked-2-kaiser-build",
+        "file": "locked-2-kaiser-build"
+      },
+      {
+        "slug": "locked-2-midfielder-build",
+        "file": "locked-2-midfielder-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "all-locked-2-weapons",
+        "file": "all-locked-2-weapons"
+      },
+      {
+        "slug": "best-height-in-locked-2",
+        "file": "best-height-in-locked-2"
+      },
+      {
+        "slug": "discord-locked-2",
+        "file": "discord-locked-2"
+      },
+      {
+        "slug": "locked-2-abilities",
+        "file": "locked-2-abilities"
+      },
+      {
+        "slug": "locked-2-all-flows",
+        "file": "locked-2-all-flows"
+      },
+      {
+        "slug": "locked-2-chameleon",
+        "file": "locked-2-chameleon"
+      },
+      {
+        "slug": "locked-2-codes",
+        "file": "locked-2-codes"
+      },
+      {
+        "slug": "locked-2-commands",
+        "file": "locked-2-commands"
+      },
+      {
+        "slug": "locked-2-discord-server",
+        "file": "locked-2-discord-server"
+      },
+      {
+        "slug": "locked-2-flow",
+        "file": "locked-2-flow"
+      },
+      {
+        "slug": "locked-2-flows",
+        "file": "locked-2-flows"
+      },
+      {
+        "slug": "locked-2-metavision",
+        "file": "locked-2-metavision"
+      },
+      {
+        "slug": "locked-2-perfect-counter",
+        "file": "locked-2-perfect-counter"
+      },
+      {
+        "slug": "locked-2-private-server",
+        "file": "locked-2-private-server"
+      },
+      {
+        "slug": "locked-2-ps-commands",
+        "file": "locked-2-ps-commands"
+      },
+      {
+        "slug": "locked-2-roblox-discord",
+        "file": "locked-2-roblox-discord"
+      },
+      {
+        "slug": "locked-2-roblox-wiki",
+        "file": "locked-2-roblox-wiki"
+      },
+      {
+        "slug": "locked-2-tier-list",
+        "file": "locked-2-tier-list"
+      },
+      {
+        "slug": "locked-2-tierlist",
+        "file": "locked-2-tierlist"
+      },
+      {
+        "slug": "locked-2-trelli",
+        "file": "locked-2-trelli"
+      },
+      {
+        "slug": "locked-2-trello-roblox",
+        "file": "locked-2-trello-roblox"
+      },
+      {
+        "slug": "locked-2-weapon-tierlist",
+        "file": "locked-2-weapon-tierlist"
+      },
+      {
+        "slug": "locked-2-wiki-roblox",
+        "file": "locked-2-wiki-roblox"
+      },
+      {
+        "slug": "locked-2-wiki",
+        "file": "locked-2-wiki"
+      },
+      {
+        "slug": "locked-trello",
+        "file": "locked-trello"
+      },
+      {
+        "slug": "locked-2-script",
+        "file": "locked:2-script"
+      },
+      {
+        "slug": "meta-vision-locked-2",
+        "file": "meta-vision-locked-2"
+      },
+      {
+        "slug": "metavision-locked-2",
+        "file": "metavision-locked-2"
+      },
+      {
+        "slug": "perfect-counter-locked-2",
+        "file": "perfect-counter-locked-2"
+      },
+      {
+        "slug": "roblox-locked-2-trello",
+        "file": "roblox-locked-2-trello"
+      },
+      {
+        "slug": "roblox-locked-2-wiki",
+        "file": "roblox-locked-2-wiki"
+      },
+      {
+        "slug": "tier-list-locked-2",
+        "file": "tier-list-locked-2"
+      },
+      {
+        "slug": "trello-locked-2",
+        "file": "trello-locked-2"
+      },
+      {
+        "slug": "wiki-locked-2",
+        "file": "wiki-locked-2"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "how-to-dribble-in-locked-2",
+        "file": "how-to-dribble-in-locked-2"
+      },
+      {
+        "slug": "how-to-spawn-ball-in-locked-2",
+        "file": "how-to-spawn-ball-in-locked-2"
+      },
+      {
+        "slug": "locked-2-beginner-guide",
+        "file": "locked-2-beginner-guide"
+      },
+      {
+        "slug": "locked-2-controls",
+        "file": "locked-2-controls"
+      },
+      {
+        "slug": "locked-2-dribbling-guide",
+        "file": "locked-2-dribbling-guide"
+      },
+      {
+        "slug": "locked-2-guide",
+        "file": "locked-2-guide"
+      },
+      {
+        "slug": "locked-2-locations",
+        "file": "locked-2-locations"
+      },
+      {
+        "slug": "locked-2-settings",
+        "file": "locked-2-settings"
+      },
+      {
+        "slug": "locked-2-tips",
+        "file": "locked-2-tips"
+      }
+    ],
+    "links": [
+      {
+        "slug": "locked-2-com",
+        "file": "locked-2-com"
+      },
+      {
+        "slug": "locked-2-discord",
+        "file": "locked-2-discord"
+      },
+      {
+        "slug": "locked-2-reddit",
+        "file": "locked-2-reddit"
+      },
+      {
+        "slug": "locked-2-trello",
+        "file": "locked-2-trello"
+      }
+    ],
+    "media": [
+      {
+        "slug": "locked-2-gameplay",
+        "file": "locked-2-gameplay"
+      },
+      {
+        "slug": "locked-2-logo",
+        "file": "locked-2-logo"
+      },
+      {
+        "slug": "locked-2-montage",
+        "file": "locked-2-montage"
+      },
+      {
+        "slug": "locked-2-youtube",
+        "file": "locked-2-youtube"
+      }
+    ],
+    "release": [
+      {
+        "slug": "locked-2-beta",
+        "file": "locked-2-beta"
+      },
+      {
+        "slug": "locked-2-launch-time",
+        "file": "locked-2-launch-time"
+      },
+      {
+        "slug": "locked-2-release",
+        "file": "locked-2-release"
+      }
+    ],
+    "update": [
+      {
+        "slug": "locked-2-all-changes",
+        "file": "locked-2-all-changes"
+      },
+      {
+        "slug": "locked-2-everything-new",
+        "file": "locked-2-everything-new"
+      },
+      {
+        "slug": "locked-2-patch-notes",
+        "file": "locked-2-patch-notes"
+      },
+      {
+        "slug": "locked-2-update",
+        "file": "locked-2-update"
+      },
+      {
+        "slug": "locked-2-vs-locked-1",
+        "file": "locked-2-vs-locked-1"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "best-weapons-in-locked-2",
+        "file": "best-weapons-in-locked-2"
+      },
+      {
+        "slug": "locked-2-all-weapons",
+        "file": "locked-2-all-weapons"
+      },
+      {
+        "slug": "locked-2-best-weapons",
+        "file": "locked-2-best-weapons"
+      },
+      {
+        "slug": "locked-2-reo-weapon",
+        "file": "locked-2-reo-weapon"
+      },
+      {
+        "slug": "locked-2-serpent-weapon",
+        "file": "locked-2-serpent-weapon"
+      },
+      {
+        "slug": "locked-2-weapon-showcase",
+        "file": "locked-2-weapon-showcase"
+      },
+      {
+        "slug": "locked-2-weapon-tier-list",
+        "file": "locked-2-weapon-tier-list"
+      },
+      {
+        "slug": "locked-2-weapons-tier-list",
+        "file": "locked-2-weapons-tier-list"
+      },
+      {
+        "slug": "locked-2-weapons",
+        "file": "locked-2-weapons"
+      }
+    ]
+  },
+  "pt": {
+    "builds": [
+      {
+        "slug": "locked-2-best-build",
+        "file": "locked-2-best-build"
+      },
+      {
+        "slug": "locked-2-builds",
+        "file": "locked-2-builds"
+      },
+      {
+        "slug": "locked-2-isagi-build",
+        "file": "locked-2-isagi-build"
+      },
+      {
+        "slug": "locked-2-kaiser-build",
+        "file": "locked-2-kaiser-build"
+      },
+      {
+        "slug": "locked-2-midfielder-build",
+        "file": "locked-2-midfielder-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "all-locked-2-weapons",
+        "file": "all-locked-2-weapons"
+      },
+      {
+        "slug": "best-height-in-locked-2",
+        "file": "best-height-in-locked-2"
+      },
+      {
+        "slug": "discord-locked-2",
+        "file": "discord-locked-2"
+      },
+      {
+        "slug": "locked-2-abilities",
+        "file": "locked-2-abilities"
+      },
+      {
+        "slug": "locked-2-all-flows",
+        "file": "locked-2-all-flows"
+      },
+      {
+        "slug": "locked-2-chameleon",
+        "file": "locked-2-chameleon"
+      },
+      {
+        "slug": "locked-2-codes",
+        "file": "locked-2-codes"
+      },
+      {
+        "slug": "locked-2-commands",
+        "file": "locked-2-commands"
+      },
+      {
+        "slug": "locked-2-discord-server",
+        "file": "locked-2-discord-server"
+      },
+      {
+        "slug": "locked-2-flow",
+        "file": "locked-2-flow"
+      },
+      {
+        "slug": "locked-2-flows",
+        "file": "locked-2-flows"
+      },
+      {
+        "slug": "locked-2-metavision",
+        "file": "locked-2-metavision"
+      },
+      {
+        "slug": "locked-2-perfect-counter",
+        "file": "locked-2-perfect-counter"
+      },
+      {
+        "slug": "locked-2-private-server",
+        "file": "locked-2-private-server"
+      },
+      {
+        "slug": "locked-2-ps-commands",
+        "file": "locked-2-ps-commands"
+      },
+      {
+        "slug": "locked-2-roblox-discord",
+        "file": "locked-2-roblox-discord"
+      },
+      {
+        "slug": "locked-2-roblox-wiki",
+        "file": "locked-2-roblox-wiki"
+      },
+      {
+        "slug": "locked-2-tier-list",
+        "file": "locked-2-tier-list"
+      },
+      {
+        "slug": "locked-2-tierlist",
+        "file": "locked-2-tierlist"
+      },
+      {
+        "slug": "locked-2-trelli",
+        "file": "locked-2-trelli"
+      },
+      {
+        "slug": "locked-2-trello-roblox",
+        "file": "locked-2-trello-roblox"
+      },
+      {
+        "slug": "locked-2-weapon-tierlist",
+        "file": "locked-2-weapon-tierlist"
+      },
+      {
+        "slug": "locked-2-wiki-roblox",
+        "file": "locked-2-wiki-roblox"
+      },
+      {
+        "slug": "locked-2-wiki",
+        "file": "locked-2-wiki"
+      },
+      {
+        "slug": "locked-trello",
+        "file": "locked-trello"
+      },
+      {
+        "slug": "locked-2-script",
+        "file": "locked:2-script"
+      },
+      {
+        "slug": "meta-vision-locked-2",
+        "file": "meta-vision-locked-2"
+      },
+      {
+        "slug": "metavision-locked-2",
+        "file": "metavision-locked-2"
+      },
+      {
+        "slug": "perfect-counter-locked-2",
+        "file": "perfect-counter-locked-2"
+      },
+      {
+        "slug": "roblox-locked-2-trello",
+        "file": "roblox-locked-2-trello"
+      },
+      {
+        "slug": "roblox-locked-2-wiki",
+        "file": "roblox-locked-2-wiki"
+      },
+      {
+        "slug": "tier-list-locked-2",
+        "file": "tier-list-locked-2"
+      },
+      {
+        "slug": "trello-locked-2",
+        "file": "trello-locked-2"
+      },
+      {
+        "slug": "wiki-locked-2",
+        "file": "wiki-locked-2"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "how-to-dribble-in-locked-2",
+        "file": "how-to-dribble-in-locked-2"
+      },
+      {
+        "slug": "how-to-spawn-ball-in-locked-2",
+        "file": "how-to-spawn-ball-in-locked-2"
+      },
+      {
+        "slug": "locked-2-beginner-guide",
+        "file": "locked-2-beginner-guide"
+      },
+      {
+        "slug": "locked-2-controls",
+        "file": "locked-2-controls"
+      },
+      {
+        "slug": "locked-2-dribbling-guide",
+        "file": "locked-2-dribbling-guide"
+      },
+      {
+        "slug": "locked-2-guide",
+        "file": "locked-2-guide"
+      },
+      {
+        "slug": "locked-2-locations",
+        "file": "locked-2-locations"
+      },
+      {
+        "slug": "locked-2-settings",
+        "file": "locked-2-settings"
+      },
+      {
+        "slug": "locked-2-tips",
+        "file": "locked-2-tips"
+      }
+    ],
+    "links": [
+      {
+        "slug": "locked-2-com",
+        "file": "locked-2-com"
+      },
+      {
+        "slug": "locked-2-discord",
+        "file": "locked-2-discord"
+      },
+      {
+        "slug": "locked-2-reddit",
+        "file": "locked-2-reddit"
+      },
+      {
+        "slug": "locked-2-trello",
+        "file": "locked-2-trello"
+      }
+    ],
+    "media": [
+      {
+        "slug": "locked-2-gameplay",
+        "file": "locked-2-gameplay"
+      },
+      {
+        "slug": "locked-2-logo",
+        "file": "locked-2-logo"
+      },
+      {
+        "slug": "locked-2-montage",
+        "file": "locked-2-montage"
+      },
+      {
+        "slug": "locked-2-youtube",
+        "file": "locked-2-youtube"
+      }
+    ],
+    "release": [
+      {
+        "slug": "locked-2-beta",
+        "file": "locked-2-beta"
+      },
+      {
+        "slug": "locked-2-launch-time",
+        "file": "locked-2-launch-time"
+      },
+      {
+        "slug": "locked-2-release",
+        "file": "locked-2-release"
+      }
+    ],
+    "update": [
+      {
+        "slug": "locked-2-all-changes",
+        "file": "locked-2-all-changes"
+      },
+      {
+        "slug": "locked-2-everything-new",
+        "file": "locked-2-everything-new"
+      },
+      {
+        "slug": "locked-2-patch-notes",
+        "file": "locked-2-patch-notes"
+      },
+      {
+        "slug": "locked-2-update",
+        "file": "locked-2-update"
+      },
+      {
+        "slug": "locked-2-vs-locked-1",
+        "file": "locked-2-vs-locked-1"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "best-weapons-in-locked-2",
+        "file": "best-weapons-in-locked-2"
+      },
+      {
+        "slug": "locked-2-all-weapons",
+        "file": "locked-2-all-weapons"
+      },
+      {
+        "slug": "locked-2-best-weapons",
+        "file": "locked-2-best-weapons"
+      },
+      {
+        "slug": "locked-2-reo-weapon",
+        "file": "locked-2-reo-weapon"
+      },
+      {
+        "slug": "locked-2-serpent-weapon",
+        "file": "locked-2-serpent-weapon"
+      },
+      {
+        "slug": "locked-2-weapon-showcase",
+        "file": "locked-2-weapon-showcase"
+      },
+      {
+        "slug": "locked-2-weapon-tier-list",
+        "file": "locked-2-weapon-tier-list"
+      },
+      {
+        "slug": "locked-2-weapons-tier-list",
+        "file": "locked-2-weapons-tier-list"
+      },
+      {
+        "slug": "locked-2-weapons",
+        "file": "locked-2-weapons"
+      }
+    ]
+  }
+}
