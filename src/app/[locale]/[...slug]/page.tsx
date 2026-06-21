@@ -1,5 +1,5 @@
 import { notFound, redirect } from 'next/navigation'
-import { getTranslations } from 'next-intl/server'
+import { getTranslations, setRequestLocale } from 'next-intl/server'
 import {
   getAllContentPaths,
   getAllContent,
@@ -25,6 +25,7 @@ interface PageProps {
 
 export default async function UnifiedContentPage({ params }: PageProps) {
   const { locale, slug } = await params
+  setRequestLocale(locale)
 
   // 验证内容类型
   const contentType = slug[0]
@@ -213,6 +214,7 @@ export async function generateStaticParams() {
  */
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale, slug } = await params
+  setRequestLocale(locale)
   const contentType = slug[0]
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.locked2.wiki'
   const getAbsoluteImage = (image?: string) => {
