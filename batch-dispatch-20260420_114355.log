@@ -1,0 +1,139 @@
+Batch Codex dispatch
+   Tasks file: /root/.openclaw/skills/game-refactor/tasks/game-refactor-locked2-tasks.json
+   Workdir: /root/Documents/GameProjects/locked2_wiki
+   Feishu: oc_bf81c07a75fc6531f292b65f47710b69
+   Tmux session: locked2_wiki
+
+Total tasks: 6
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [1/6]: game-refactor-part5-homepage-2-locked2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/locked2_wiki/task-meta.json
+   Task ID: game-refactor-part5-homepage-2-locked2_20260420_114355_32069
+   Task: game-refactor-part5-homepage-2-locked2
+   Target: oc_bf81c07a75fc6531f292b65f47710b69
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part5-homepage-2-locked2_20260420_114355_32069.md
+Creating tmux session: locked2_wiki
+Started codex-agent in tmux session: locked2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t locked2_wiki
+
+Task sent to codex session: locked2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t locked2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b515556ac6cacc2b4213fe486dc3
+   Task ID: game-refactor-part5-homepage-2-locked2_20260420_114355_32069
+Waiting for task: game-refactor-part5-homepage-2-locked2_20260420_114355_32069 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+   Still waiting... (480s / 7200s)
+   Still waiting... (540s / 7200s)
+   Still waiting... (600s / 7200s)
+   Still waiting... (660s / 7200s)
+   Still waiting... (720s / 7200s)
+   Still waiting... (780s / 7200s)
+Task completed: game-refactor-part5-homepage-2-locked2_20260420_114355_32069 (800s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [2/6]: game-refactor-part6-homepage-3-locked2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Chaining from previous task (5425 chars)
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/locked2_wiki/task-meta.json
+   Task ID: game-refactor-part6-homepage-3-locked2_20260420_115727_39871
+   Task: game-refactor-part6-homepage-3-locked2
+   Target: oc_bf81c07a75fc6531f292b65f47710b69
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part6-homepage-3-locked2_20260420_115727_39871.md
+Creating tmux session: locked2_wiki
+Started codex-agent in tmux session: locked2_wiki
+To monitor: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t locked2_wiki
+
+Task sent to codex session: locked2_wiki
+To watch: tmux -S /tmp/clawdbot-tmux-sockets/codex-code.sock attach -t locked2_wiki
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b515505c838acc31cae4663da596
+   Task ID: game-refactor-part6-homepage-3-locked2_20260420_115727_39871
+Waiting for task: game-refactor-part6-homepage-3-locked2_20260420_115727_39871 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)

@@ -1,0 +1,51 @@
+Batch Codex dispatch
+   Tasks file: /root/.openclaw/skills/game-refactor/tasks/game-refactor-locked2-tasks.json
+   Workdir: /root/Documents/GameProjects/locked2_wiki
+   Feishu: oc_bf81c07a75fc6531f292b65f47710b69
+   Tmux session: locked2_wiki
+
+Total tasks: 6
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task [1/6]: game-refactor-part5-homepage-2-locked2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Task metadata written: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/sessions/locked2_wiki/task-meta.json
+   Task ID: game-refactor-part5-homepage-2-locked2_20260420_114045_30188
+   Task: game-refactor-part5-homepage-2-locked2
+   Target: oc_bf81c07a75fc6531f292b65f47710b69
+   Prompt file: /root/.openclaw/workspace-code-dev/skills/codex-agent/data/prompts/game-refactor-part5-homepage-2-locked2_20260420_114045_30188.md
+Creating tmux session: locked2_wiki
+can't find window: 0
+Traceback (most recent call last):
+  File "/root/.openclaw/workspace-code-dev/skills/codex-agent/scripts/codex_run.py", line 456, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/root/.openclaw/workspace-code-dev/skills/codex-agent/scripts/codex_run.py", line 450, in main
+    return run_tmux(args)
+           ^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace-code-dev/skills/codex-agent/scripts/codex_run.py", line 363, in run_tmux
+    subprocess.check_call(tmux_cmd(socket_path, "send-keys", "-t", target, "-l", "--", f"export {var_name}={shlex.quote(var_val)}"))
+  File "/usr/lib/python3.12/subprocess.py", line 413, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['tmux', '-S', '/tmp/clawdbot-tmux-sockets/codex-code.sock', 'send-keys', '-t', 'locked2_wiki:0.0', '-l', '--', 'export CODING_AGENT_TASK_ID=game-refactor-part5-homepage-2-locked2_20260420_114045_30188']' returned non-zero exit status 1.
+   Task ID: game-refactor-part5-homepage-2-locked2_20260420_114045_30188
+Waiting for task: game-refactor-part5-homepage-2-locked2_20260420_114045_30188 (timeout: 7200s)
+   Still waiting... (60s / 7200s)
+   Still waiting... (120s / 7200s)
+   Still waiting... (180s / 7200s)
+   Still waiting... (240s / 7200s)
+   Still waiting... (300s / 7200s)
+   Still waiting... (360s / 7200s)
+   Still waiting... (420s / 7200s)
+   Still waiting... (480s / 7200s)
+   Still waiting... (540s / 7200s)
+   Still waiting... (600s / 7200s)
+   Still waiting... (660s / 7200s)
+   Still waiting... (720s / 7200s)
+   Still waiting... (780s / 7200s)
+   Still waiting... (840s / 7200s)
+   Still waiting... (900s / 7200s)
+   Still waiting... (960s / 7200s)
+   Still waiting... (1020s / 7200s)
+   Still waiting... (1080s / 7200s)
